@@ -1,16 +1,37 @@
-# Edureka 7 PM Batch
+# Learning Diary
 
-This is the private repo of 7 PM Batch.
+# December 11th 2022
 
-If you are interested, you can apply for internship to work with me. Details are available at this [link](https://medium.com/projectwt/inviting-applications-for-paid-internship-for-open-source-project-76ed5761e673).
+Topics for the session.
 
-# Diary
+1. The Private Repository Usage. 
+1. Sharing Code and Asking Doubts.
+1. Make sure all students are on the private repository.
+1. Make Your GitHub look Good. 
+1. How to DO Coding in VS Code with HTML and CSS.
+1. How to Do Coding in VS with JavaScript
+1. Bootstrap Demos for future placements.
 
-[LearningDiary.md](LearningDiary.md)
+Links.
 
-# Folders and Notes
+1. https://developer.mozilla.org/en-US/docs/Learn/HTML
+1. https://developer.mozilla.org/en-US/docs/Learn/CSS
+1. https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
+1. https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
-To be added.
+# Till December 10th 2022
+
+As of today, following topics were covered.
+
+1. GitHub. 
+1. HTML and CSS essentials (replacement tutor took care of this)
+1. Introduction to myself and this course.
+
+Links.
+
+1. https://medium.com/projectwt/coding-tutor-tip-5-github-essentials-1f5328950dec
+1. https://github.com/Jay-study-nildana
+1. https://github.com/Jay-study-nildana/Edureka7PMBatchPrivate
 
 # Hire Me
 
