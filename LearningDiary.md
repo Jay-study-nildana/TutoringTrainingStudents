@@ -6,6 +6,7 @@ Topics for the session.
 
 1. The Private Repository Usage. 
 1. Sharing Code and Asking Doubts.
+1. CodePen Pens.
 1. Make sure all students are on the private repository.
 1. Make Your GitHub look Good. 
 1. How to DO Coding in VS Code with HTML and CSS.
