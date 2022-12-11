@@ -29,6 +29,8 @@ Okay, next class,
 1. Common HTML tags as per placement.
 1. Commmon CSS things as per placement. 
 
+adding something something for abdul. 
+
 # Till December 10th 2022
 
 As of today, following topics were covered.
