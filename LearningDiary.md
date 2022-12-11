@@ -24,6 +24,11 @@ Links.
 1. https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
 1. https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
+Okay, next class, 
+
+1. Common HTML tags as per placement.
+1. Commmon CSS things as per placement. 
+
 # Till December 10th 2022
 
 As of today, following topics were covered.
