@@ -1,5 +1,89 @@
 # Learning Diary
 
+I am putting the notes here for students benefit.
+
+# December 17th and 18th
+
+This weekend (and also next weekend) focus on HTML and CSS. 
+
+Folders
+
+1. [December11th2022](December11th2022)
+
+HTML Practice
+
+Marking up a letter 
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter#example
+
+Beginning.
+
+https://codepen.io/jay-pancodu/pen/eYKqgBa
+
+Solutions
+
+1. https://codepen.io/lukecicilia/pen/WNdLjYK (original)
+1. https://codepen.io/jay-pancodu/pen/yLEmgaG (my remixed version)
+1. folder, Markingupaletter. 
+
+Structuring a page of content
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content
+
+Solutions
+
+1. https://codepen.io/geoffgraham/pen/MWyKaOm (original)
+1. https://codepen.io/jay-pancodu/pen/QWxedZo (my remixed version)
+1. folder, Structuringapageofcontent
+
+Links.
+
+1. https://www.w3schools.com/css/css_howto.asp
+
+Mozilla splash page
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page
+
+Solutions
+
+1. https://codepen.io/pgmorales76/pen/oNEzQjy (original)
+1. https://codepen.io/jay-pancodu/pen/oNyKBVw (my remixed version)
+
+Structuring planet data
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data
+
+Solutions
+
+1. https://codepen.io/AshleyCheny/pen/MmaJdV (original)
+1. https://codepen.io/jay-pancodu/pen/ZERgeEb (my remixed version)
+
+CSS Practice
+
+Styling a biography page
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Styling_a_biography_page
+
+Fundamental CSS comprehension
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Fundamental_CSS_comprehension
+
+Creating fancy letterheaded paper
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Creating_fancy_letterheaded_paper
+
+A cool-looking box
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/A_cool_looking_box
+
+Typesetting a community school homepage
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Typesetting_a_homepage
+
+Fundamental layout comprehension
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Fundamental_Layout_Comprehension
+
 # December 11th 2022
 
 Folders
