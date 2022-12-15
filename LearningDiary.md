@@ -36,10 +36,6 @@ Solutions
 1. https://codepen.io/jay-pancodu/pen/QWxedZo (my remixed version)
 1. folder, Structuringapageofcontent
 
-Links.
-
-1. https://www.w3schools.com/css/css_howto.asp
-
 Mozilla splash page
 
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page
@@ -64,25 +60,72 @@ Styling a biography page
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Styling_a_biography_page
 
+Solutions
+
+1. https://codepen.io/LeKoels27/pen/BarKRXY (original)
+1. https://codepen.io/jay-pancodu/pen/NWzQgOE (my remixed version)
+
 Fundamental CSS comprehension
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Fundamental_CSS_comprehension
+
+Solutions
+
+1. https://codepen.io/jonnydrama85/pen/zYKgzJN (original)
+1. https://codepen.io/jay-pancodu/pen/BaVXZGO (my remixed version)
+
+
 
 Creating fancy letterheaded paper
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Creating_fancy_letterheaded_paper
 
+Solutions
+
+1. https://codepen.io/diegoolano1991/pen/yLVNVwo (original)
+1. https://codepen.io/jay-pancodu/pen/qBKejLR (my remixed version)
+
 A cool-looking box
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/A_cool_looking_box
+
+Solutions
+
+1. https://codepen.io/haonan/pen/NWavNYx (original)
+1. https://codepen.io/jay-pancodu/pen/QWxegzo (my remixed version)
 
 Typesetting a community school homepage
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Typesetting_a_homepage
 
+Solutions
+
+1. https://codepen.io/dtrower-tstc/pen/vYLpJzp (original)
+1. https://codepen.io/jay-pancodu/pen/GRGVEzx (my remixed version)
+
+
 Fundamental layout comprehension
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Fundamental_Layout_Comprehension
+
+Solutions
+
+1. https://codepen.io/vahidpouyafar/pen/Exyaozp (original)
+1. https://codepen.io/jay-pancodu/pen/zYagzbq (remixed version)
+
+Storing/Getting Images
+
+1. Wikipedia is a good option to get direct links.
+1. https://imgbb.com/
+1. WordPress
+
+Links.
+
+1. https://www.w3schools.com/css/css_howto.asp
+1. https://developer.mozilla.org/en-US/docs/Learn/HTML
+1. https://developer.mozilla.org/en-US/docs/Learn/CSS
+1. https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
+1. https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 # December 11th 2022
 
