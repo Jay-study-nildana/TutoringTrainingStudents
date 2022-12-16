@@ -6,9 +6,11 @@ I am putting the notes here for students benefit.
 
 This weekend (and also next weekend) focus on HTML and CSS. 
 
+1. CSS Selectors. https://www.w3schools.com/css/css_selectors.asp
+
 Folders
 
-1. [December11th2022](December11th2022)
+1. [December17th18th2022](December17th18th2022)
 
 HTML Practice
 
