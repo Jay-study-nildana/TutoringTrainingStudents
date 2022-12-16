@@ -2,6 +2,13 @@
 
 I am putting the notes here for students benefit.
 
+# Future Topics
+
+Flex.
+
+1. https://developer.mozilla.org/en-US/docs/Web/CSS/flex
+1. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+
 # December 17th and 18th
 
 This weekend (and also next weekend) focus on HTML and CSS. 
