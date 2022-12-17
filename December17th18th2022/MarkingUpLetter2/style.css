@@ -1,0 +1,20 @@
+/* selectors */
+
+html {
+    /* font-size: 20px; */
+    /* background-color: rgb(87, 85, 214); */
+    background-color:#ffffff; 
+
+    /* hello hello hello what is going on. */
+  }
+
+
+.address-to-right-side {
+  /* we are trying to push the text to the right side. */
+  text-align: right;
+}
+
+body {
+  max-width: 700px;
+  margin: 80px auto;
+}
