@@ -136,6 +136,15 @@ Links.
 1. https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
 1. https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
+Stackoverflow
+
+1. https://stackoverflow.com/questions/26293935/how-to-equally-distribute-elements-horizontally-using-css
+1. https://stackoverflow.com/questions/4888223/align-image-in-center-and-middle-within-div
+
+Example Images
+
+1. https://sandkdesignstudio.in/p5-js-workshop/
+
 # December 11th 2022
 
 Folders
