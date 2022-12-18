@@ -9,6 +9,22 @@ Flex.
 1. https://developer.mozilla.org/en-US/docs/Web/CSS/flex
 1. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 
+# December 24th and 25th.
+
+Resuming with the 2nd mini project.
+
+Structuring a page of content
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content
+
+Solutions
+
+1. https://codepen.io/geoffgraham/pen/MWyKaOm (original)
+1. https://codepen.io/jay-pancodu/pen/QWxedZo (my remixed version)
+1. folder, Structuringapageofcontent
+1. folder, Structuringapageofcontent2 (project folder created. code to begin)
+
+
 # December 17th and 18th
 
 This weekend (and also next weekend) focus on HTML and CSS. 
@@ -45,6 +61,7 @@ Solutions
 1. https://codepen.io/geoffgraham/pen/MWyKaOm (original)
 1. https://codepen.io/jay-pancodu/pen/QWxedZo (my remixed version)
 1. folder, Structuringapageofcontent
+1. folder, Structuringapageofcontent2 (project folder created. code to begin)
 
 Mozilla splash page
 
