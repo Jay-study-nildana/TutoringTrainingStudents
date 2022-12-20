@@ -21,9 +21,37 @@ Solutions
 
 1. https://codepen.io/geoffgraham/pen/MWyKaOm (original)
 1. https://codepen.io/jay-pancodu/pen/QWxedZo (my remixed version)
-1. folder, Structuringapageofcontent
-1. folder, Structuringapageofcontent2 (project folder created. code to begin)
+1. https://codepen.io/jay-pancodu/pen/oNMNRyP (another remixed version with extra comments)
+1. folder, December17th18th2022 > Structuringapageofcontent
+1. folder, December17th18th2022 > Structuringapageofcontent2 (project folder created. code to begin)
+1. folder, December24th25th2022 > StructuringapageofcontentPractice1
 
+Folder.
+
+1. [December24th25th2022](December24th25th2022)
+
+Bootstrap Setting Up
+
+1. get your HTMl starter project code. folder, HTMLBasicTemplate.
+1. collect all the images you need. 
+1. setup the ICON
+1. add Bootstrap CSS
+1. add font awesome
+1. add google font family
+1. add bootstrap JS file
+1. add popper JS file (if required)
+1. use a basic div, like this, '<div class="container-fluid text-center">'
+1. Then, go to bootstrap docs, and start using some bootstrap classes and features.
+
+Solutions
+
+1. https://codepen.io/jay-pancodu/pen/abjbrxK 
+
+Links
+
+1. https://www.bootstrapcdn.com/
+1. https://www.bootstrapcdn.com/fontawesome/
+1. https://wallsdesk.com/ameesha-patel-43995/ (for ameesha patel images)
 
 # December 17th and 18th
 
@@ -60,8 +88,8 @@ Solutions
 
 1. https://codepen.io/geoffgraham/pen/MWyKaOm (original)
 1. https://codepen.io/jay-pancodu/pen/QWxedZo (my remixed version)
-1. folder, Structuringapageofcontent
-1. folder, Structuringapageofcontent2 (project folder created. code to begin)
+1. folder, December17th18th2022 > Structuringapageofcontent
+1. folder, December17th18th2022 > Structuringapageofcontent2 (project folder created. code to begin)
 
 Mozilla splash page
 
