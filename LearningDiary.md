@@ -68,6 +68,26 @@ Solutions
 1. https://codepen.io/jay-pancodu/pen/gOjbRNm
 1. Folder, Bootstrap5PhotoWebsite
 
+Project : Admin Dashboard.
+
+1. get the bootstrap startup folder, Bootstrap5TemplateStarterAmeeshaPatel. 
+1. Or, build a basic bootstrap site by adding all librariers.
+1. Start with the footer. 
+1. remember the bootstrap 12 units rule. and the spacing codes, ml and such. 
+1. as usual, fontawesome and text color being different from background. otherwise you wont see anything.
+1. now, start with the main content body. as usual bootstrap container with some padding.
+1. and, start adding sections. bootstrap loves sections.
+1. dont forget VS Code multi line select with ALT/OPTION key.
+1. rows and columns, focus on, col-xl-3 and col-sm-6
+1. add a section for content cards.
+1. add a section for content tables.
+1. add a section for progress bars.
+
+Solutions
+
+1. https://codepen.io/jay-pancodu/pen/abjzKrY
+1. Folder, AdminDashboard
+
 Links
 
 1. https://www.bootstrapcdn.com/

@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Required meta tags -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <!-- link to icon -->
+  <link rel="icon" href="https://celebsupdate.com/wp-content/uploads/2020/09/set1-12.png">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+    integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+
+  <script src="https://kit.fontawesome.com/8a57255155.js" crossorigin="anonymous"></script>
+
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+  
+  <title>Bootstrap 5 Template Starter</title>
+</head>
+<body>
+
+  <div class="container py-4">
+
+    <hr>
+
+    <h1 class="text-center">cards and stuff</h1>
+  <!-- cards -->
+  <section>
+    <div class="container-fluid">
+      <p class="text-center">Here, for all screen sizes, everything is always a row.</p>
+      <div class="row">
+        <!-- notice that this matches the col- numbers with the sidebar section above -->
+        <!-- you will also notice that this matches everything that comes in the center box -->
+        <!-- like the table -->
+        <!-- <div class="col-xl-2 col-lg-3 col-md-4 sidebar fixed-top"></div> -->
+        <div class="ml-auto">
+          <div class="row pt-md-5 mt-md-3 mb-5">
+            <!-- now, again, we are starting a new row. so again, there will be 12 part col division -->
+            <!-- watch out for each div adding up to 12 at different break points -->
+            <div class="p-2">
+              <div class="card card-common">
+                <div class="card-body">
+                  <div class="d-flex justify-content-between">
+                    <i class="fas fa-money-check fa-3x text-warning"></i>
+                    <div class="text-right text-secondary">
+                      <h5>Photos Sold</h5>
+                      <h3>100,000</h3>
+                    </div>
+                  </div>
+                </div>
+                <div class="card-footer text-secondary">
+                  <i class="fas fa-sync mr-3"></i>
+                  <span>All-time</span>
+                </div>
+              </div>
+            </div>
+            <div class="p-2">
+              <div class="card card-common">
+                <div class="card-body">
+                  <div class="d-flex justify-content-between">
+                    <i class="fas fa-dollar-sign fa-3x text-warning"></i>
+                    <div class="text-right text-secondary">
+                      <h5>Revenue</h5>
+                      <h3>$1,000,000,000</h3>
+                    </div>
+                  </div>
+                </div>
+                <div class="card-footer text-secondary">
+                  <i class="fas fa-sync mr-3"></i>
+                  <span>All-time</span>
+                </div>
+              </div>
+            </div>
+            <div class="p-2">
+              <div class="card card-common">
+                <div class="card-body">
+                  <div class="d-flex justify-content-between">
+                    <i class="fas fa-coins fa-3x text-warning"></i>
+                    <div class="text-right text-secondary">
+                      <h5>Photos Sold</h5>
+                      <h3>1,000</h3>
+                    </div>
+                  </div>
+                </div>
+                <div class="card-footer text-secondary">
+                  <i class="fas fa-sync mr-3"></i>
+                  <span>Last Month</span>
+                </div>
+              </div>
+            </div>
+            <div class="p-2">
+              <div class="card card-common">
+                <div class="card-body">
+                  <div class="d-flex justify-content-between">
+                    <i class="fas fa-euro-sign fa-3x text-warning"></i>
+                    <div class="text-right text-secondary">
+                      <h5>Revenue</h5>
+                      <h3>$1,000,000</h3>
+                    </div>
+                  </div>
+                </div>
+                <div class="card-footer text-secondary">
+                  <i class="fas fa-sync mr-3"></i>
+                  <span>Last Month</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end of cards -->     
+    
+  <!-- cards -->
+  <section>
+    <div class="container-fluid">
+      <p class="text-center">Here, when screen less than xl, it becomes multiple rows.</p>
+      <div class="row">
+        <!-- notice that this matches the col- numbers with the sidebar section above -->
+        <!-- you will also notice that this matches everything that comes in the center box -->
+        <!-- like the table -->
+        <!-- <div class="col-xl-2 col-lg-3 col-md-4 sidebar fixed-top"></div> -->
+        <div class="ml-auto">
+          <div class="row pt-md-5 mt-md-3 mb-5">
+            <!-- now, again, we are starting a new row. so again, there will be 12 part col division -->
+            <!-- watch out for each div adding up to 12 at different break points -->
+            <div class="col-xl-3 p-2">
+              <div class="card card-common">
+                <div class="card-body">
+                  <div class="d-flex justify-content-between">
+                    <i class="fas fa-money-check fa-3x text-warning"></i>
+                    <div class="text-right text-secondary">
+                      <h5>Photos Sold</h5>
+                      <h3>100,000</h3>
+                    </div>
+                  </div>
+                </div>
+                <div class="card-footer text-secondary">
+                  <i class="fas fa-sync mr-3"></i>
+                  <span>All-time</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 p-2">
+              <div class="card card-common">
+                <div class="card-body">
+                  <div class="d-flex justify-content-between">
+                    <i class="fas fa-dollar-sign fa-3x text-warning"></i>
+                    <div class="text-right text-secondary">
+                      <h5>Revenue</h5>
+                      <h3>$1,000,000,000</h3>
+                    </div>
+                  </div>
+                </div>
+                <div class="card-footer text-secondary">
+                  <i class="fas fa-sync mr-3"></i>
+                  <span>All-time</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 p-2">
+              <div class="card card-common">
+                <div class="card-body">
+                  <div class="d-flex justify-content-between">
+                    <i class="fas fa-coins fa-3x text-warning"></i>
+                    <div class="text-right text-secondary">
+                      <h5>Photos Sold</h5>
+                      <h3>1,000</h3>
+                    </div>
+                  </div>
+                </div>
+                <div class="card-footer text-secondary">
+                  <i class="fas fa-sync mr-3"></i>
+                  <span>Last Month</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 p-2">
+              <div class="card card-common">
+                <div class="card-body">
+                  <div class="d-flex justify-content-between">
+                    <i class="fas fa-euro-sign fa-3x text-warning"></i>
+                    <div class="text-right text-secondary">
+                      <h5>Revenue</h5>
+                      <h3>$1,000,000</h3>
+                    </div>
+                  </div>
+                </div>
+                <div class="card-footer text-secondary">
+                  <i class="fas fa-sync mr-3"></i>
+                  <span>Last Month</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end of cards -->    
+
+  <!-- cards -->
+  <section>
+    <div class="container-fluid">
+      <p class="text-center">xl and above, its four columns. sm and above, its 2 columns. smaller than sm, it becomes rows</p>
+      <div class="row">
+        <!-- notice that this matches the col- numbers with the sidebar section above -->
+        <!-- you will also notice that this matches everything that comes in the center box -->
+        <!-- like the table -->
+        <!-- <div class="col-xl-2 col-lg-3 col-md-4 sidebar fixed-top"></div> -->
+        <div class="ml-auto">
+          <div class="row pt-md-5 mt-md-3 mb-5">
+            <!-- now, again, we are starting a new row. so again, there will be 12 part col division -->
+            <!-- watch out for each div adding up to 12 at different break points -->
+            <div class="col-xl-3 col-sm-6 p-2">
+              <div class="card card-common">
+                <div class="card-body">
+                  <div class="d-flex justify-content-between">
+                    <i class="fas fa-money-check fa-3x text-warning"></i>
+                    <div class="text-right text-secondary">
+                      <h5>Photos Sold</h5>
+                      <h3>100,000</h3>
+                    </div>
+                  </div>
+                </div>
+                <div class="card-footer text-secondary">
+                  <i class="fas fa-sync mr-3"></i>
+                  <span>All-time</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-sm-6 p-2">
+              <div class="card card-common">
+                <div class="card-body">
+                  <div class="d-flex justify-content-between">
+                    <i class="fas fa-dollar-sign fa-3x text-warning"></i>
+                    <div class="text-right text-secondary">
+                      <h5>Revenue</h5>
+                      <h3>$1,000,000,000</h3>
+                    </div>
+                  </div>
+                </div>
+                <div class="card-footer text-secondary">
+                  <i class="fas fa-sync mr-3"></i>
+                  <span>All-time</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-sm-6 p-2">
+              <div class="card card-common">
+                <div class="card-body">
+                  <div class="d-flex justify-content-between">
+                    <i class="fas fa-coins fa-3x text-warning"></i>
+                    <div class="text-right text-secondary">
+                      <h5>Photos Sold</h5>
+                      <h3>1,000</h3>
+                    </div>
+                  </div>
+                </div>
+                <div class="card-footer text-secondary">
+                  <i class="fas fa-sync mr-3"></i>
+                  <span>Last Month</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-sm-6 p-2">
+              <div class="card card-common">
+                <div class="card-body">
+                  <div class="d-flex justify-content-between">
+                    <i class="fas fa-euro-sign fa-3x text-warning"></i>
+                    <div class="text-right text-secondary">
+                      <h5>Revenue</h5>
+                      <h3>$1,000,000</h3>
+                    </div>
+                  </div>
+                </div>
+                <div class="card-footer text-secondary">
+                  <i class="fas fa-sync mr-3"></i>
+                  <span>Last Month</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end of cards -->  
+  
+  <hr>
+
+  <h1 class="text-center">tables and stuff</h1>
+  <!-- tables -->
+  <section>
+    <div class="container-fluid">
+      <p class="text-center">xl and above, we have two tables, side by side. below xl, tables take up all 12 width.</p>
+      <div class="row mb-5">
+        <div class="ml-auto">
+          <div class="row align-items-center">
+            <!-- we have two tables, side by side at full width. -->
+            <!-- this table takes up the first half -->
+            <div class="col-xl-6 col-12 mb-4 mb-xl-0">
+              <h3 class="text-white text-center mb-3">Model Payments</h3>
+              <table class="table table-striped bg-light text-center">
+                <thead>
+                  <tr class="text-muted">
+                    <th>#</th>
+                    <th>Name</th>
+                    <th>Amount</th>
+                    <th>Date</th>
+                    <th>Contact</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th>1</th>
+                    <td>Lola</td>
+                    <td>$25000</td>
+                    <td>25/05/2021</td>
+                    <td><button type="button" class="btn btn-info btn-sm">Message</button></td>
+                  </tr>
+                  <tr>
+                    <th>2</th>
+                    <td>Sativa</td>
+                    <td>$6000</td>
+                    <td>25/05/2021</td>
+                    <td><button type="button" class="btn btn-info btn-sm">Message</button></td>
+                  </tr>
+                  <tr>
+                    <th>3</th>
+                    <td>Abella</td>
+                    <td>$8000</td>
+                    <td>25/05/2021</td>
+                    <td><button type="button" class="btn btn-info btn-sm">Message</button></td>
+                  </tr>
+                  <tr>
+                    <th>4</th>
+                    <td>Micah</td>
+                    <td>$90000</td>
+                    <td>25/05/2021</td>
+                    <td><button type="button" class="btn btn-info btn-sm">Message</button></td>
+                  </tr>
+                  <tr>
+                    <th>5</th>
+                    <td>Christie</td>
+                    <td>$80000</td>
+                    <td>25/05/2021</td>
+                    <td><button type="button" class="btn btn-info btn-sm">Message</button></td>
+                  </tr>
+                </tbody>
+              </table>
+
+              <!-- pagination -->
+              <nav>
+                <ul class="pagination justify-content-center">
+                  <li class="page-item">
+                    <a href="#" class="page-link py-2 px-3">
+                      <span>&laquo;</span>
+                    </a>
+                  </li>
+                  <li class="page-item active">
+                    <a href="#" class="page-link py-2 px-3">
+                      1
+                    </a>
+                  </li>
+                  <li class="page-item">
+                    <a href="#" class="page-link py-2 px-3">
+                      2
+                    </a>
+                  </li>
+                  <li class="page-item">
+                    <a href="#" class="page-link py-2 px-3">
+                      3
+                    </a>
+                  </li>
+                  <li class="page-item">
+                    <a href="#" class="page-link py-2 px-3">
+                      <span>&raquo;</span>
+                    </a>
+                  </li>
+                </ul>
+              </nav>
+              <!-- end of pagination -->
+            </div>
+            <!-- this table takes up the second half -->
+            <div class="col-xl-6 col-12">
+              <h3 class="text-white text-center mb-3">Recent Payments</h3>
+              <table class="table table-striped table-hover bg-light text-center">
+                <thead>
+                  <tr class="text-muted">
+                    <th>#</th>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>Date</th>
+                    <th>Status</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th>1</th>
+                    <td>Adriena</td>
+                    <td>$20000</td>
+                    <td>25/05/2021</td>
+                    <td><span class="badge badge-success w-75 py-2">Approved</span></td>
+                  </tr>
+                  <tr>
+                    <th>2</th>
+                    <td>Roxy</td>
+                    <td>$45000</td>
+                    <td>25/05/2021</td>
+                    <td><span class="badge badge-success w-75 py-2">Approved</span></td>
+                  </tr>
+                  <tr>
+                    <th>3</th>
+                    <td>Raya</td>
+                    <td>$75000</td>
+                    <td>25/05/2021</td>
+                    <td><span class="badge badge-danger w-75 py-2">Pending</span></td>
+                  </tr>
+                  <tr>
+                    <th>4</th>
+                    <td>Jane</td>
+                    <td>$69</td>
+                    <td>25/05/2021</td>
+                    <td><span class="badge badge-danger w-75 py-2">Pending</span></td>
+                  </tr>
+                  <tr>
+                    <th>5</th>
+                    <td>Buffy</td>
+                    <td>$10</td>
+                    <td>25/05/2021</td>
+                    <td><span class="badge badge-success w-75 py-2">Approved</span></td>
+                  </tr>
+                  <!-- <tr>
+                    <th>6</th>
+                    <td>Kate</td>
+                    <td>$2000</td>
+                    <td>25/05/2021</td>
+                    <td><span class="badge badge-danger w-75 py-2">Pending</span></td>
+                  </tr> -->
+                </tbody>
+              </table>
+              <!-- pagination -->
+              <nav>
+                <ul class="pagination justify-content-center">
+                  <li class="page-item">
+                    <a href="#" class="page-link py-2 px-3">
+                      <span>Previous</span>
+                    </a>
+                  </li>
+                  <li class="page-item active">
+                    <a href="#" class="page-link py-2 px-3">
+                      1
+                    </a>
+                  </li>
+                  <li class="page-item">
+                    <a href="#" class="page-link py-2 px-3">
+                      2
+                    </a>
+                  </li>
+                  <li class="page-item">
+                    <a href="#" class="page-link py-2 px-3">
+                      3
+                    </a>
+                  </li>
+                  <li class="page-item">
+                    <a href="#" class="page-link py-2 px-3">
+                      <span>Next</span>
+                    </a>
+                  </li>
+                </ul>
+              </nav>
+              <!-- end of pagination -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end of tables -->  
+
+  <!-- tables -->
+  <section>
+    <div class="container-fluid">
+      <p class="text-center">for all widths, the tables are always taking up the entire space.</p>
+      <div class="row mb-5">
+        <div class="ml-auto">
+          <div class="row align-items-center">
+            <!-- we have two tables, side by side at full width. -->
+            <!-- this table takes up the first half -->
+            <div class=" mb-4 mb-xl-0">
+              <h3 class="text-white text-center mb-3">Model Payments</h3>
+              <table class="table table-striped bg-light text-center">
+                <thead>
+                  <tr class="text-muted">
+                    <th>#</th>
+                    <th>Name</th>
+                    <th>Amount</th>
+                    <th>Date</th>
+                    <th>Contact</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th>1</th>
+                    <td>Lola</td>
+                    <td>$25000</td>
+                    <td>25/05/2021</td>
+                    <td><button type="button" class="btn btn-info btn-sm">Message</button></td>
+                  </tr>
+                  <tr>
+                    <th>2</th>
+                    <td>Sativa</td>
+                    <td>$6000</td>
+                    <td>25/05/2021</td>
+                    <td><button type="button" class="btn btn-info btn-sm">Message</button></td>
+                  </tr>
+                  <tr>
+                    <th>3</th>
+                    <td>Abella</td>
+                    <td>$8000</td>
+                    <td>25/05/2021</td>
+                    <td><button type="button" class="btn btn-info btn-sm">Message</button></td>
+                  </tr>
+                  <tr>
+                    <th>4</th>
+                    <td>Micah</td>
+                    <td>$90000</td>
+                    <td>25/05/2021</td>
+                    <td><button type="button" class="btn btn-info btn-sm">Message</button></td>
+                  </tr>
+                  <tr>
+                    <th>5</th>
+                    <td>Christie</td>
+                    <td>$80000</td>
+                    <td>25/05/2021</td>
+                    <td><button type="button" class="btn btn-info btn-sm">Message</button></td>
+                  </tr>
+                </tbody>
+              </table>
+
+              <!-- pagination -->
+              <nav>
+                <ul class="pagination justify-content-center">
+                  <li class="page-item">
+                    <a href="#" class="page-link py-2 px-3">
+                      <span>&laquo;</span>
+                    </a>
+                  </li>
+                  <li class="page-item active">
+                    <a href="#" class="page-link py-2 px-3">
+                      1
+                    </a>
+                  </li>
+                  <li class="page-item">
+                    <a href="#" class="page-link py-2 px-3">
+                      2
+                    </a>
+                  </li>
+                  <li class="page-item">
+                    <a href="#" class="page-link py-2 px-3">
+                      3
+                    </a>
+                  </li>
+                  <li class="page-item">
+                    <a href="#" class="page-link py-2 px-3">
+                      <span>&raquo;</span>
+                    </a>
+                  </li>
+                </ul>
+              </nav>
+              <!-- end of pagination -->
+            </div>
+            <!-- this table takes up the second half -->
+            <div class="">
+              <h3 class="text-white text-center mb-3">Recent Payments</h3>
+              <table class="table table-striped table-hover bg-light text-center">
+                <thead>
+                  <tr class="text-muted">
+                    <th>#</th>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>Date</th>
+                    <th>Status</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th>1</th>
+                    <td>Adriena</td>
+                    <td>$20000</td>
+                    <td>25/05/2021</td>
+                    <td><span class="badge badge-success w-75 py-2">Approved</span></td>
+                  </tr>
+                  <tr>
+                    <th>2</th>
+                    <td>Roxy</td>
+                    <td>$45000</td>
+                    <td>25/05/2021</td>
+                    <td><span class="badge badge-success w-75 py-2">Approved</span></td>
+                  </tr>
+                  <tr>
+                    <th>3</th>
+                    <td>Raya</td>
+                    <td>$75000</td>
+                    <td>25/05/2021</td>
+                    <td><span class="badge badge-danger w-75 py-2">Pending</span></td>
+                  </tr>
+                  <tr>
+                    <th>4</th>
+                    <td>Jane</td>
+                    <td>$69</td>
+                    <td>25/05/2021</td>
+                    <td><span class="badge badge-danger w-75 py-2">Pending</span></td>
+                  </tr>
+                  <tr>
+                    <th>5</th>
+                    <td>Buffy</td>
+                    <td>$10</td>
+                    <td>25/05/2021</td>
+                    <td><span class="badge badge-success w-75 py-2">Approved</span></td>
+                  </tr>
+                  <!-- <tr>
+                    <th>6</th>
+                    <td>Kate</td>
+                    <td>$2000</td>
+                    <td>25/05/2021</td>
+                    <td><span class="badge badge-danger w-75 py-2">Pending</span></td>
+                  </tr> -->
+                </tbody>
+              </table>
+              <!-- pagination -->
+              <nav>
+                <ul class="pagination justify-content-center">
+                  <li class="page-item">
+                    <a href="#" class="page-link py-2 px-3">
+                      <span>Previous</span>
+                    </a>
+                  </li>
+                  <li class="page-item active">
+                    <a href="#" class="page-link py-2 px-3">
+                      1
+                    </a>
+                  </li>
+                  <li class="page-item">
+                    <a href="#" class="page-link py-2 px-3">
+                      2
+                    </a>
+                  </li>
+                  <li class="page-item">
+                    <a href="#" class="page-link py-2 px-3">
+                      3
+                    </a>
+                  </li>
+                  <li class="page-item">
+                    <a href="#" class="page-link py-2 px-3">
+                      <span>Next</span>
+                    </a>
+                  </li>
+                </ul>
+              </nav>
+              <!-- end of pagination -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end of tables -->  
+
+  <hr>
+
+  <h1 class="text-center">Progress Bar</h1>
+  <!-- progress / task list -->
+  <section>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="ml-auto">
+          <div class="row mb-4 align-items-center">
+            <!-- now, again, we are starting a new row. so again, there will be 12 part col division -->
+            <!-- watch out for each div adding up to 12 at different break points -->
+            <!-- just like the tables above, this progress thing will take up half screen space   -->
+            <p class="text-center">Progress Bar takes up entire width at all width sizes</p>
+            <div class="col-xl-12 col-12 mb-4 mb-xl-0">
+              <div class="bg-light text-info p-4 rounded">
+                <h4 class="mb-5">Fastest Cats In The World</h4>
+                <h6 class="mb-3">Blackie</h6>
+                <div class="progress mb-4" style="height: 20px">
+                  <div class="progress-bar progress-bar-striped font-weight-bold" style="width: 89%">
+                    500 kph
+                  </div>
+                </div>
+                <h6 class="mb-3">Kencha</h6>
+                <div class="progress mb-4" style="height: 20px">
+                  <div class="progress-bar progress-bar-striped font-weight-bold bg-success" style="width: 71%">
+                    450 kph
+                  </div>
+                </div>
+                <h6 class="mb-3">Mothi</h6>
+                <div class="progress mb-4" style="height: 20px">
+                  <div class="progress-bar progress-bar-striped font-weight-bold bg-danger" style="width: 61%">
+                    300 kph
+                  </div>
+                </div>
+                <h6 class="mb-3">Chintu</h6>
+                <div class="progress mb-4" style="height: 20px">
+                  <div class="progress-bar progress-bar-striped font-weight-bold bg-info" style="width: 51%">
+                    250 kph
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end of row -->
+        </div>
+        <!-- end of div for column -->
+      </div>
+      <!-- end of main row -->
+    </div>
+    <!-- end of container -->
+  </section>
+  <!-- end of progress -->  
+
+  <section>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="ml-auto">
+          <div class="row mb-4 align-items-center">
+            <!-- now, again, we are starting a new row. so again, there will be 12 part col division -->
+            <!-- watch out for each div adding up to 12 at different break points -->
+            <!-- just like the tables above, this progress thing will take up half screen space   -->
+            <p class="text-center">Progress Bar takes half the space at xl and above</p>
+            <div class="col-xl-6 col-12 mb-4 mb-xl-0">
+              <div class="bg-light text-info p-4 rounded">
+                <h4 class="mb-5">Fastest Cats In The World</h4>
+                <h6 class="mb-3">Blackie</h6>
+                <div class="progress mb-4" style="height: 20px">
+                  <div class="progress-bar progress-bar-striped font-weight-bold" style="width: 89%">
+                    500 kph
+                  </div>
+                </div>
+                <h6 class="mb-3">Kencha</h6>
+                <div class="progress mb-4" style="height: 20px">
+                  <div class="progress-bar progress-bar-striped font-weight-bold bg-success" style="width: 71%">
+                    450 kph
+                  </div>
+                </div>
+                <h6 class="mb-3">Mothi</h6>
+                <div class="progress mb-4" style="height: 20px">
+                  <div class="progress-bar progress-bar-striped font-weight-bold bg-danger" style="width: 61%">
+                    300 kph
+                  </div>
+                </div>
+                <h6 class="mb-3">Chintu</h6>
+                <div class="progress mb-4" style="height: 20px">
+                  <div class="progress-bar progress-bar-striped font-weight-bold bg-info" style="width: 51%">
+                    250 kph
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-6 col-12 mb-4 mb-xl-0">
+              <div class="bg-light text-info p-4 rounded">
+                <h4 class="mb-5">Fastest Cats In The World</h4>
+                <h6 class="mb-3">Blackie</h6>
+                <div class="progress mb-4" style="height: 20px">
+                  <div class="progress-bar progress-bar-striped font-weight-bold" style="width: 89%">
+                    500 kph
+                  </div>
+                </div>
+                <h6 class="mb-3">Kencha</h6>
+                <div class="progress mb-4" style="height: 20px">
+                  <div class="progress-bar progress-bar-striped font-weight-bold bg-success" style="width: 71%">
+                    450 kph
+                  </div>
+                </div>
+                <h6 class="mb-3">Mothi</h6>
+                <div class="progress mb-4" style="height: 20px">
+                  <div class="progress-bar progress-bar-striped font-weight-bold bg-danger" style="width: 61%">
+                    300 kph
+                  </div>
+                </div>
+                <h6 class="mb-3">Chintu</h6>
+                <div class="progress mb-4" style="height: 20px">
+                  <div class="progress-bar progress-bar-striped font-weight-bold bg-info" style="width: 51%">
+                    250 kph
+                  </div>
+                </div>
+              </div>
+            </div>            
+          </div>
+          <!-- end of row -->
+        </div>
+        <!-- end of div for column -->
+      </div>
+      <!-- end of main row -->
+    </div>
+    <!-- end of container -->
+  </section>
+  <!-- end of progress -->  
+  
+  <hr>
+
+  </div>
+
+  <hr>
+  <!-- footer -->
+  <footer>
+    <div class="container-fluid">
+      <div class="row">
+        <!-- once again, this adds up to 12 with the side bar as with all the other things -->
+        <div class="ml-auto">
+          <!-- now comes the actual row which contains our actual contents -->
+          <div class="row border-top pt-3">
+            <!-- we have two columns. one for content on left. another for content on right. -->
+            <!-- left side things. -->
+            <div class="col-lg-6 text-center">
+              <ul class="list-inline">
+                <li class="list-inline-item mr-2">
+                  <a href="https://jay-study-nildana.github.io/developerprofile/" class="text-dark">Jay's Developer
+                    Profile</a>
+                </li>
+                <li class="list-inline-item mr-2">
+                  <a href="https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents" class="text-dark">Code Repository</a>
+                </li>
+                <li class="list-inline-item mr-2">
+                  <a href="https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents" class="text-dark">Bootstrap For
+                    Students</a>
+                </li>
+                <!-- <li class="list-inline-item mr-2">
+                  <a href="#" class="text-light">Blog</a>
+                </li> -->
+              </ul>
+            </div>
+            <!-- left side things ends. -->
+            <!-- right side things. -->
+            <div class="col-lg-6 text-center text-dark">
+              <p>2022 Student Code. Use it as it pleases you. I <i class="fas fa-heart text-dark"></i> Coding <span
+                  class="text-danger"> and its awesome!</span></p>
+                  <!-- <i class="fas fa-lightbulb fa-8x text-dark m-4"></i> -->
+            </div>
+            <!-- right side things. ends -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- end of footer -->  
+
+  <hr>
+
+  <hr>
+  <p class="text-center">Below is the bootstrap template stuff. you can delete it if you want</p>
+
+  <div class="container-fluid text-center">
+    <h1>Hello There.This is Ameesha Patel</h1>
+    <figure class="text-center">
+      <blockquote class="blockquote">
+        <p>My mind, rebels at stagnation. Give me problems, give me work, give me the most abstruse cryptogram or the most intricate analysis, and I am in my own proper atmosphere. I can dispense then with artificial stimulants. But I abhor the dull routine of existence. I crave for mental exaltation. That is why I have chosen my own particular profession,—or rather created it, for I am the only one in the world</p>
+      </blockquote>
+      <figcaption class="blockquote-footer">
+        Sherlock Holmes<cite title="Source Title">. The Sign of the Four</cite>
+      </figcaption>
+    </figure>
+    <hr>
+    <!-- jernej-graj-MdTe1mXvNMg-unsplash -->
+    <img src="https://wallsdesk.com/wp-content/uploads/2016/09/Ameesha-Patel-Pictures.jpg" class="img-fluid" alt="...">
+    <p>
+      Photo by <a href="https://unsplash.com/@jernejgraj?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+WallsDesk.com </a> on <a href="hhttps://wallsdesk.com/ameesha-patel-43995/">Walls Desk</a>
+    </p>
+    <p class="lead">
+      This is a lead paragraph. It stands out from regular paragraphs.
+    </p>
+    <hr>
+    <div class="row">
+      <div class="col">
+        Column
+      </div>
+      <div class="col">
+        Column
+      </div>
+      <div class="col">
+        Column
+      </div>
+    </div>    
+    <hr>
+    <p class="lead">
+      If you are seeing this in the center of the page, Sherlock Holmes in light gray, with italicized novel name, then, bootstrap 5 is working as expected.
+    </p>
+  </div>
+  <div class="container-fluid text-center">
+        <p>
+      Follow Me on <a href="https://github.com/Jay-study-nildana">GitHub</a>
+    </p>
+  </div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+<script src="script.js"></script>
+</body>
+</html> 
