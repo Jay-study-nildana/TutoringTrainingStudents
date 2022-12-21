@@ -30,7 +30,7 @@ Folder.
 
 1. [December24th25th2022](December24th25th2022)
 
-Bootstrap Setting Up
+Project : Bootstrap Setting Up
 
 1. get your HTMl starter project code. folder, HTMLBasicTemplate.
 1. collect all the images you need. 
@@ -46,6 +46,27 @@ Bootstrap Setting Up
 Solutions
 
 1. https://codepen.io/jay-pancodu/pen/abjbrxK 
+1. folder, Bootstrap5TemplateStarterAmeeshaPatel.
+
+Project : Photo Website
+
+1. get the bootstrap startup folder, Bootstrap5TemplateStarterAmeeshaPatel. 
+1. Or, build a basic bootstrap site by adding all librariers.
+1. Start with Header. 
+1. First add the navbar inside the header.
+1. Then, add the image banner inside the header.
+1. remember about break points with navbar: navbar-expand-sm, and other options: .navbar-expand{-sm|-md|-lg|-xl}
+1. setup the banner text 
+1. start setting up your sections. Remember that in bootstrap everything is a total of 12. 
+1. col-lg-9 and col-lg-3. col-md-6 and col-md-3 and col-md-3
+1. remember to create an account on font-awesome. learn how to search and use icons.
+1. for images, use direct links from image search.
+1. if neccessary crop and organize your images using irfanview.
+
+Solutions
+
+1. https://codepen.io/jay-pancodu/pen/gOjbRNm
+1. Folder, Bootstrap5PhotoWebsite
 
 Links
 

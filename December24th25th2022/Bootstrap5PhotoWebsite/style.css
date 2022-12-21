@@ -1,0 +1,96 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+header{
+  /* we want it to take up the entire 100 % of the viewport */
+  height: 50vh;
+  /* i dont want the image to repeat
+  i want the image to be center 
+  and /cover is actually the final size of the backgroun. 
+  its actually division of the center center by the cover value */
+  /* we are using background shortcuts here. 
+  each of the attributes can be specified separately */
+  background: url(https://wallsdesk.com/wp-content/uploads/2016/09/Ameesha-Patel-Pictures.jpg) no-repeat center center /cover;
+}
+
+.banner{
+  /* absolute
+    The element is removed from the normal document flow, 
+    and no space is created for the element in the page layout. */
+  position: absolute; 
+  /* here, we decide from what point of space the DOM should be displayed */
+  /* so, here, it will start 50 % of the div space from both top to bottom */
+  top: 20%;
+  left: 50%;
+  /* repositions an element in the horizontal and/or vertical directions */
+  /* Its coordinates define how much the element moves in each direction */
+  /* here, I am moving to the left and right by 50 % of available space */
+  transform: translate(-50%,-50%);
+  /* we can specify the available width for this div
+  here I am saying it can use 80% of available width in all directions */
+  width: 60%;
+}
+
+.mission {
+  background: blueviolet;
+}
+
+.pricing {
+  background: hotpink;
+}
+
+.card-1 {
+  /* background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .5)), url(images/pricing-card-bg.jpeg) center no-repeat /cover; */
+  background: rgb(206, 219, 18);
+  box-shadow: 7px 18px 50px #555;
+  max-width: 400px;
+}
+
+.card-2 {
+  /* background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .5)), url(images/pricing-card-bg.jpeg) center no-repeat /cover; */
+  background: rgb(194, 35, 162);
+  box-shadow: 7px 18px 50px #555;
+  max-width: 400px;
+}
+
+.card-3 {
+  /* background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .5)), url(images/pricing-card-bg.jpeg) center no-repeat /cover; */
+  background: rgb(222, 101, 14);
+  box-shadow: 7px 18px 50px #555;
+  max-width: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
