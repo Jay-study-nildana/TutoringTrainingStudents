@@ -6,11 +6,15 @@ If you are interested, you can apply for internship to work with me. Details are
 
 # Diary
 
-[LearningDiary.md](LearningDiary.md)
+[LearningDiary.md](LearningDiary.md). Contains things that are being done every weekend in the class. This is the main file that all students must be looking at every day.
 
-# Folders and Notes
+# Folders
 
-To be added.
+1. [HTMLBasicTemplate](HTMLBasicTemplate)
+1. [Bootstrap5TemplateStarterAmeeshaPatel](Bootstrap5TemplateStarterAmeeshaPatel)
+1. [December11th2022](December11th2022)
+1. [December17th18th2022](December17th18th2022)
+1. [December24th25th2022](December24th25th2022)
 
 # Hire Me
 

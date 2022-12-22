@@ -88,6 +88,24 @@ Solutions
 1. https://codepen.io/jay-pancodu/pen/abjzKrY
 1. Folder, AdminDashboard
 
+Project : Simple Calculator
+
+1. Get to know some basic javascript, html and css things.
+1. use the bootstrap starter template, if you want. Folder Bootstrap5TemplateStarterAmeeshaPatel.
+1. check for the reference solution, or export it as zip for local running.
+1. dont forget ALT clicking and selecting in VS Code.
+1. setup a basic layout with HTML and CSS
+1. setting up a background-image using radial-gradient
+1. using some basic WebKit CSS extensions
+1. using ::before and ::after in CSS, https://codepen.io/jay-pancodu/pen/MWBwgNp
+1. animatio with keyframes, https://codepen.io/jay-pancodu/pen/RwBPwVX
+
+Solutions
+
+1. https://codepen.io/giana/pen/GJMBEv (original)
+1. https://codepen.io/jay-pancodu/pen/qByEeLa (my remix version)
+1. Folder, CalculatorwithBootstrap 
+
 Links
 
 1. https://www.bootstrapcdn.com/
