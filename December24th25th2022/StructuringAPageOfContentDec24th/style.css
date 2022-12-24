@@ -1,0 +1,76 @@
+/* || General setup */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  width: 70%;
+  margin: auto auto;
+}
+
+/* this is the HTML tag selector. */
+
+html {
+  font-size: 10px;
+  background-color: rgb(219, 34, 179);
+}
+
+body {
+  width: 70%;
+  min-width: 800px;
+  margin: 0 auto;
+}
+
+/* this is called a tag selector */
+
+/* h1{
+  font-size: 6rem;
+  text-align: center;
+  text-shadow: 2px 2px 5px rgb(251, 235, 8);
+  color: darkolivegreen;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} */
+
+/* i created a css class */
+.toptitlestyling {
+  font-size: 6rem;
+  text-align: center;
+  text-shadow: 2px 2px 5px rgb(251, 235, 8);
+  color: darkolivegreen;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.secondtitlestyling {
+  font-size: 3rem;
+  text-align: right;
+  text-shadow: 2px 2px 5px rgb(8, 251, 117);
+  color: rgb(45, 89, 234);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.movielist {
+  font-size: 2rem;
+  text-align: left;
+  text-shadow: 2px 2px 5px rgb(36, 6, 78);
+  color: rgb(19, 240, 134);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.movielistitems {
+  color: gold;
+  font-size: large;
+}
+
+.otherinformationparagraph {
+  color: rgb(240, 114, 10);
+  font-size: large;
+}
+
+.contactgithub {
+  color: teal;
+  font-size: large;
+}

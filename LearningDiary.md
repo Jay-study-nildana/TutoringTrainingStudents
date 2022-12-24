@@ -22,9 +22,11 @@ Solutions
 1. https://codepen.io/geoffgraham/pen/MWyKaOm (original)
 1. https://codepen.io/jay-pancodu/pen/QWxedZo (my remixed version)
 1. https://codepen.io/jay-pancodu/pen/oNMNRyP (another remixed version with extra comments)
+1. https://codepen.io/jay-pancodu/pen/WNKQvpP (another remix done on Dec 24th)
 1. folder, December17th18th2022 > Structuringapageofcontent
 1. folder, December17th18th2022 > Structuringapageofcontent2 (project folder created. code to begin)
 1. folder, December24th25th2022 > StructuringapageofcontentPractice1
+1. folder, December24th25th2022 > StructuringAPageOfContentDec24th
 
 Folder.
 
