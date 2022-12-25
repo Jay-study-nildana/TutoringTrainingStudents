@@ -9,6 +9,10 @@ Flex.
 1. https://developer.mozilla.org/en-US/docs/Web/CSS/flex
 1. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 
+# Clones and Remakes
+
+1. https://w3hubs.com/netflix-home-page-in-bootstrap-5/ - Netflix Clone. 
+
 # December 24th and 25th.
 
 Resuming with the 2nd mini project.
@@ -48,6 +52,7 @@ Project : Bootstrap Setting Up
 Solutions
 
 1. https://codepen.io/jay-pancodu/pen/abjbrxK 
+1. https://codepen.io/jay-pancodu/pen/gOjaGbX (Dec 25th version)
 1. folder, Bootstrap5TemplateStarterAmeeshaPatel.
 1. folder, Bootstrap5SettingUp
 
