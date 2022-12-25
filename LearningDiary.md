@@ -49,6 +49,7 @@ Solutions
 
 1. https://codepen.io/jay-pancodu/pen/abjbrxK 
 1. folder, Bootstrap5TemplateStarterAmeeshaPatel.
+1. folder, Bootstrap5SettingUp
 
 Project : Photo Website
 
