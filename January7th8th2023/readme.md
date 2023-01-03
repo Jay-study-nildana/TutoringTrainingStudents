@@ -1,18 +1,6 @@
-# Bootstrap 5 Template Starter
+# January 7th and 8th Code here.
 
-This is the bootstrap 5.X template. Uses Ameesha Patel has the main image.
-
-![image info](bootstrapsite1.png)
-
-# CodePen version
-
-1. https://codepen.io/jay-pancodu/pen/abjbrxK
-
-# References
-
-1. https://getbootstrap.com/docs/5.1/getting-started/introduction/
-2. https://learning.oreilly.com/videos/bootstrap-4-create - Bootstrap 4: Create Four Real World Projects By George Lomidze
-3. https://github.com/PacktPublishing/Bootstrap-4---Create-4-Real-World-Projects
+putting this weekends code here.
 
 # Hire Me
 
