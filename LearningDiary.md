@@ -36,6 +36,8 @@ Solutions
 
 1. https://codepen.io/jay-pancodu/pen/gOjbRNm
 1. Folder, Bootstrap5PhotoWebsite
+1. Folder, PhotoWebsiteJan7th2023 (Jan 7th 2023 Edition)
+1. https://codepen.io/jay-pancodu/pen/poZRJqr (Jan 7th 2023 Edition)
 
 Project : Admin Dashboard.
 
