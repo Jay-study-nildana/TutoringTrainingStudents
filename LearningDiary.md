@@ -2,16 +2,40 @@
 
 I am putting the notes here for students benefit.
 
-# Future Topics
+# Danger Zone. JavaScript Main Guidelines
 
-Flex.
+1. Practice minimum 10 hours every week.
+1. Free Code Camp JAVASCRIPT CERTIFICATE
+1. Stack Overflow : asking questions and finding answers. 
+1. 2 monitors or 1 big 4K monitor. 
+1. leetcode ranking
+1. codesignal badges.
 
-1. https://developer.mozilla.org/en-US/docs/Web/CSS/flex
-1. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+All the best. 
 
-# Clones and Remakes
+# TODO : Clones and Remakes
 
 1. https://w3hubs.com/netflix-home-page-in-bootstrap-5/ - Netflix Clone. 
+
+# January 14th and January 15th
+
+Next : Danger Zone. JavaScript
+
+Main Guidelines
+
+1. Practice minimum 10 hours every week.
+1. Free Code Camp JAVASCRIPT CERTIFICATE
+1. Stack Overflow : asking questions and finding answers. 
+1. 2 monitors or 1 big 4K monitor. 
+1. leetcode ranking
+1. codesignal badges.
+
+All the best. 
+
+Target Mini Projects.
+
+1. [NASAAPODXhrFetch](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents/Bootstrap5/NASAAPODXhrFetch)
+1. [Calculator](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/HTMLCSSForStudents/Calculator)
 
 # January 7th and 8th
 

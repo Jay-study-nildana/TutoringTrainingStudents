@@ -6,3 +6,11 @@ header {
 .welcomesection {
   background-color: rgb(26, 71, 221);
 }
+
+.collectionsection {
+  background-color: rgb(235, 99, 20);
+}
+
+.posterratessection {
+  background-color: blueviolet;
+}
