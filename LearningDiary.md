@@ -37,6 +37,49 @@ Target Mini Projects.
 1. [NASAAPODXhrFetch](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents/Bootstrap5/NASAAPODXhrFetch)
 1. [Calculator](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/HTMLCSSForStudents/Calculator)
 
+Weekend Class Topics.
+
+Part One : General Setting
+
+1. Practising JavaScript in the console. 
+1. Understand the role of JS in the HTML, CSS and JS combo.
+1. Quick Demo. Button Clicking with event handler. 
+    1. https://codepen.io/Mestika/pen/XmvVmx (Original)
+    1. https://codepen.io/jay-pancodu/pen/gOjgQgr (my remix)
+1. Some intro about ES standards. ES6 is the biggest revision. This is what really matters. old and new, don't really matter and are minor improvements.
+1. Code Storage : GitHub, CodePen. 
+1. Asking doubts. Already discussed, but, revisiting.
+1. JavaScript Starter Template. The bootstrap starter already has JS file linked.
+    1. https://codepen.io/jay-pancodu/pen/abjbrxK (Ameesha Patel and Bootstrap)
+    1. https://codepen.io/jay-pancodu/pen/gOjaGbX (Ameesha Patel and Bootstrap) (Dec 25th version)
+    1. folder, Bootstrap5TemplateStarterAmeeshaPatel. (Ameesha Patel and Bootstrap)
+    1. https://codepen.io/jay-pancodu/pen/RwBKEJQ (WITHOUT Ameesha Patel or Bootstrap)
+    1. folder, JavaScriptStarterTemplate. (WITHOUT Ameesha Patel or Bootstrap)
+1. some basic JS, if else, add, subtract and things like that. 
+1. Using the console to see output. 
+
+Part Two : Variables and Values inside Variables.
+
+1. https://codepen.io/jay-pancodu/pen/WNKRPeV
+1. Variable are like water bottles or water buckets or purse or bag.
+1. camelCase is recommended. helloBatman. beautifulAmeeshaPatel. ameeshaPatel.
+1. become good at using proper variable names. make it long, and meaningful. DONT BE LAZY.
+1. constants use UPPERCASE. 
+1. Datatypes : Number which are always float.
+1. Datatypes : string
+1. Datatypes : boolean
+1. Datatypes : Undefined
+1. Datatypes : null
+1. Datatypes : Symbol //not required
+1. Datatypes : BigInt //not required
+1. typeof to find out types.
+1. JavaScript is all about DYNAMIC TYPING. makes life easy and confusing at the same time. Compare and Contrast with strongly typed languages like C# in .NET.
+1. Comments. // and /* */. Ctrl / in VS Code and CodePen.
+1. Why use comments? DOCUMENTATION. Politeness. Etiquette. Responsibility. Team Player. 
+1. Better to comment than delete. Useful for reference, and reuse later. 
+1. let and const and var.
+1. const is NON MUTABLE.
+
 # January 7th and 8th
 
 This weekend plans. Bootstrap mini projects and also, introducting JS.
