@@ -80,6 +80,11 @@ Part Two : Variables and Values inside Variables.
 1. let and const and var.
 1. const is NON MUTABLE.
 
+Today's codepen links and folders.
+
+1. https://codepen.io/jay-pancodu/pen/JjBJQwB
+1. Folder, JSDemoJan14th
+
 # January 7th and 8th
 
 This weekend plans. Bootstrap mini projects and also, introducting JS.
