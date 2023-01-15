@@ -17,6 +17,17 @@ All the best.
 
 1. https://w3hubs.com/netflix-home-page-in-bootstrap-5/ - Netflix Clone. 
 
+# January 21st and January 22nd
+
+Target Mini Projects.
+
+1. [NASAAPODXhrFetch](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents/Bootstrap5/NASAAPODXhrFetch)
+1. [Calculator](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/HTMLCSSForStudents/Calculator)
+
+TODO. Need to check mini projects. fix coding mistakes, and also check for codepen availability.
+
+Next, resume with functions.
+
 # January 14th and January 15th
 
 Next : Danger Zone. JavaScript
