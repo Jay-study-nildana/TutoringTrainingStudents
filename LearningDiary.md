@@ -24,9 +24,30 @@ Target Mini Projects.
 1. [NASAAPODXhrFetch](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents/Bootstrap5/NASAAPODXhrFetch)
 1. [Calculator](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/HTMLCSSForStudents/Calculator)
 
-TODO. Need to check mini projects. fix coding mistakes, and also check for codepen availability.
-
 Next, resume with functions.
+
+1. functions. defining old school aka function declaration. calling. passing parameters. return value. function chaining.
+1. anonymous function aka function expression, using them like variables. usually with const.
+1. arrow function. confusing but widely used and shorter
+1. all three types of functions. https://codepen.io/jay-pancodu/pen/BaPwbRG
+
+now, the main programming concepts
+
+1. operators. +, -, *, /, % , ** (power), typeof, +=, -=, ++ (and other variations), 
+1. operators. =
+1. opeartors. >,<,== (automatic string conversion), === (no automatic string conversion).
+1. operator precendence. dig deeper as per your job. skipping this.
+1. string. "", '', `${variableString}`.
+1. if else and else if. note: use boolean values without '==' operator. common practice.
+1. switch. 
+1. Type Conversion. Number(variable). String(variable). Please don't do this. 
+1. truthy and falsy values. Boolean(variable).
+1. use prompt to get input in console. https://codepen.io/jay-pancodu/pen/YzjrgWr
+1. ternary operator. x ? y : z. replacement for if else. 
+
+Next, Arrays.
+
+1. coming soon.
 
 # January 14th and January 15th
 
