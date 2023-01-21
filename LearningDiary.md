@@ -24,6 +24,16 @@ Target Mini Projects.
 1. [NASAAPODXhrFetch](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents/Bootstrap5/NASAAPODXhrFetch)
 1. [Calculator](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/HTMLCSSForStudents/Calculator)
 
+Folders
+
+1. [January21st22nd2023](January21st22nd2023)
+
+CodePen
+
+1. https://codepen.io/jay-pancodu/pen/WNKdYqm
+1. https://codepen.io/jay-pancodu/pen/BaPwbRG
+1. https://codepen.io/jay-pancodu/pen/YzjYBNo
+
 Next, resume with functions.
 
 1. functions. defining old school aka function declaration. calling. passing parameters. return value. function chaining.
@@ -45,7 +55,7 @@ now, the main programming concepts
 1. use prompt to get input in console. https://codepen.io/jay-pancodu/pen/YzjrgWr
 1. ternary operator. x ? y : z. replacement for if else. 
 
-Next, Arrays.
+Next, Arrays and For Loops. 
 
 1. coming soon.
 
