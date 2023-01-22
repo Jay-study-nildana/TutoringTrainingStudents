@@ -17,6 +17,21 @@ All the best.
 
 1. https://w3hubs.com/netflix-home-page-in-bootstrap-5/ - Netflix Clone. 
 
+# January 28th and January 29th 
+
+1. [NASAAPODXhrFetch](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents/Bootstrap5/NASAAPODXhrFetch)
+1. [Calculator](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/HTMLCSSForStudents/Calculator)
+
+Concepts
+
+1. strings
+1. arrays
+1. JSON
+1. Promises and Async
+1. Classes and Objects.
+
+After this, of course, we will begin React JS. 
+
 # January 21st and January 22nd
 
 Target Mini Projects.
@@ -33,6 +48,10 @@ CodePen
 1. https://codepen.io/jay-pancodu/pen/WNKdYqm
 1. https://codepen.io/jay-pancodu/pen/BaPwbRG
 1. https://codepen.io/jay-pancodu/pen/YzjYBNo
+
+Reference
+
+1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
 Next, resume with functions.
 
@@ -58,6 +77,10 @@ now, the main programming concepts
 Next, Arrays and For Loops. 
 
 1. coming soon.
+
+Continuing with the same link from yesterday.
+
+1. https://codepen.io/jay-pancodu/pen/YzjYBNo
 
 # January 14th and January 15th
 
