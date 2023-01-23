@@ -24,13 +24,72 @@ All the best.
 
 Concepts
 
-1. strings
-1. arrays
+1. strings (data structures)
+1. arrays (data structures)
+1. Classes and Objects. (data structures)
 1. JSON
 1. Promises and Async
-1. Classes and Objects.
+1. Shortcircuiting with || and && 
+1. ?? Nullish Coalescing Operator.
+1. Logical Assignment Operators
 
 After this, of course, we will begin React JS. 
+
+CodePen
+
+1. https://codepen.io/jay-pancodu/pen/yLqvoXy (arrays)
+1. https://codepen.io/jay-pancodu/pen/bGjLrYy (objects)
+1. https://codepen.io/jay-pancodu/pen/eYjVGmR (array advanced)
+1. https://codepen.io/jay-pancodu/pen/wvxyrMa (objects advanced)
+
+Strings
+
+1. ${literals} with ` ${variable} `
+
+Arrays (data structures)
+
+1. []
+1. new Array()
+1. start with 0
+1. [0] or [1]
+1. .length (objects propp[]e/rty)
+1. arrays can be mixed with different types and contain other arrays
+1. push and unshift
+1. pop and shift
+1. indexOf
+1. includes
+1. arrays + for loops
+
+Objects (data structures)
+
+1. basic object.
+1. dot for basic access
+1. square bracket for advanced programmable access
+1. this keyword
+1. functions inside objects
+
+Advanced Arrays
+
+1. [x,y,z] = array aka destructuring using []
+1. [x,y,[a,b]] = nested destructuring using [] for nested arrays
+1. default value using '='
+1. spread oprator ... (right side)
+1. copying arrays and adding elements front or back
+1. very useful for making strings individual letters because stings are arrays
+1. combine arrays rest operator. (left side)
+1. for-of 
+1. entries function with spread operator
+
+Advanced Objects
+
+1. {a,b} = {} destructure object using {}
+1. give specific names using :
+1. override existing names using ()
+1. spread operator ... (right side)
+1. copy objects. becaues, you should not manipulate original objects
+1. rest operator ... (left side)
+
+
 
 # January 21st and January 22nd
 
