@@ -1,14 +1,18 @@
-# Tutoring Training Students
+# EdNovember Batch
 
-Hello and Welcome to the repository dedicated to students from my corporate training, classroom training and other training students.
+Notes from the November Batch of Ed.
 
-Pleaes feel free ask questions and find out more in the 'Issues' and 'Discussions' section.
+# Diary
 
-# Project Templates
+[LearningDiary.md](LearningDiary.md). Contains things that are being done every weekend in the class. This is the main file that all students must be looking at every day.
 
-1. [HTML Basic Template](HTMLBasicTemplate)
-1. [Bootstrap5 Template Starter AmeeshaPatel](Bootstrap5TemplateStarterAmeeshaPatel)
-1. [JavaScript Starter Template](JavaScriptStarterTemplate)
+# Weekly Class Folders
+
+1. [December11th2022](December11th2022)
+1. [December17th18th2022](December17th18th2022)
+1. [December24th25th2022](December24th25th2022)
+1. [January7th8th2023](January7th8th2023)
+1. [January14th15th2023](January14th15th2023)
 
 # Hire Me
 
