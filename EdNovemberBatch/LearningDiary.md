@@ -22,6 +22,10 @@ All the best.
 1. [NASAAPODXhrFetch](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents/Bootstrap5/NASAAPODXhrFetch)
 1. [Calculator](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/HTMLCSSForStudents/Calculator)
 
+Folders
+
+1. [StringBasics](StringBasics) - string basics.
+
 Concepts
 
 1. strings (data structures)
