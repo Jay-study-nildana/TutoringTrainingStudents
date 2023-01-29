@@ -26,6 +26,10 @@ Folders
 
 1. [StringBasics](StringBasics) - string basics.
 
+CodePen
+
+1. https://codepen.io/Chetandasa/pen/GRBvbdz - NASA APOD link.
+
 Concepts
 
 1. strings (data structures)
@@ -93,7 +97,20 @@ Advanced Objects
 1. copy objects. becaues, you should not manipulate original objects
 1. rest operator ... (left side)
 
+Output
 
+1. VS Code. Folder, NASAAPOD. 
+1. CodePen : https://codepen.io/jay-pancodu/pen/dyjjzPx
+
+Steps to build the APOD Project. 
+
+1. bootstrap template. https://codepen.io/jay-pancodu/pen/abjbrxK , https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents/Bootstrap5/Bootstrap5TemplateStarterAmeeshaPatel
+1. https://api.nasa.gov/ get API key
+1. built basic paragraph, header, image with place holder and button
+1. link button to NASA api call
+1. use fetch to connect to NASA API endpoint
+1. extract data from json object
+1. manipulate DOM to show data from NASA
 
 # January 21st and January 22nd
 
