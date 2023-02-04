@@ -17,7 +17,7 @@ All the best.
 
 1. https://w3hubs.com/netflix-home-page-in-bootstrap-5/ - Netflix Clone. 
 
-# January 4th and January 5th.
+# February 4th and January 5th.
 
 1. Building the movie db project. https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents/Bootstrap5/MovieDBProject
 
@@ -28,6 +28,8 @@ After this, introduction with coding to the following ideas, now that basics are
 1. Postman 
 1. Mongo DB, Cloud, Compass and Node JS Web API, https://github.com/Jay-study-nildana/NodeJSForStudents/tree/main/MongoDB_API_CRUD_HelloWorld
 1. Oauth 2.0 with Auth0, Email login and Google login, https://github.com/Jay-study-nildana/NodeJSForStudents/tree/main/Auth0Demo
+
+Project, folder, MovieDBVanillaJSWebApp
 
 # January 28th and January 29th 
 

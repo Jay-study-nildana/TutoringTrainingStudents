@@ -106,3 +106,8 @@ dist
 # mac DS store stuff
 
 .DS_Store
+
+# ignore api key file in moviedb project
+
+apikey.js
+jay.js
