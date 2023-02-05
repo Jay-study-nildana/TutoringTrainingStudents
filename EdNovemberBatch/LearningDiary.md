@@ -31,6 +31,15 @@ After this, introduction with coding to the following ideas, now that basics are
 
 Project, folder, MovieDBVanillaJSWebApp
 
+Next Things to do. This, I will make it a homework. 
+
+1. Implement a Random Movie showing button. 
+1. Implement a search function plus button.
+1. search function should happen with pressing 'Enter'
+1. input box should automatically fill up on random, and clear when pressing Enter or pressing search. 
+1. implement gallery.
+1. convert data into link. 
+
 # January 28th and January 29th 
 
 1. [NASAAPODXhrFetch](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents/Bootstrap5/NASAAPODXhrFetch)
