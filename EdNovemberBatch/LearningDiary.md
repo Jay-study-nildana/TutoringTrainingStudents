@@ -17,7 +17,7 @@ All the best.
 
 1. https://w3hubs.com/netflix-home-page-in-bootstrap-5/ - Netflix Clone. 
 
-# February 4th and January 5th.
+# February 4th and February 5th.
 
 1. Building the movie db project. https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents/Bootstrap5/MovieDBProject
 
@@ -39,6 +39,34 @@ Next Things to do. This, I will make it a homework.
 1. input box should automatically fill up on random, and clear when pressing Enter or pressing search. 
 1. implement gallery.
 1. convert data into link. 
+
+Next
+
+1. REACT JS 
+1. NODE JS 
+1. MONGO DB 
+1. WEB API 
+1. Oauth 
+1. Deployment
+
+To Prepare for this.
+
+1. https://nodejs.org/en/
+1. https://codesandbox.io
+1. https://codesandbox.io/u/Jay-study-nildana
+1. https://codesandbox.io/s/react-template-bootstrap-cx3k9n
+1. https://www.mongodb.com/try/download/community
+1. https://cloud.mongodb.com
+1. https://www.mongodb.com/products/compass
+1. https://www.postman.com/downloads/
+1. facebook account. 
+1. google account. 
+1. https://auth0.com
+1. https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/ReactJSForStudents
+
+Make sure all this is ready before the next class. 
+
+1. https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/ReactJSForStudents/helloworld2023
 
 # January 28th and January 29th 
 
