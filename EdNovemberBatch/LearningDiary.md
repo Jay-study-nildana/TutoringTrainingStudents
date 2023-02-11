@@ -17,6 +17,24 @@ All the best.
 
 1. https://w3hubs.com/netflix-home-page-in-bootstrap-5/ - Netflix Clone. 
 
+# February 11th and 12th
+
+https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/ReactJSForStudents
+
+https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/ReactJSForStudents/helloworld2023
+
+Today's folder. 
+
+helloworldfeb11th
+
+1. HTTPS.
+
+https://medium.com/projectwt/react-js-localhost-with-https-using-mkcert-338927e94212
+
+https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/ReactJSForStudents/httpshelloworld
+
+
+
 # February 4th and February 5th.
 
 1. Building the movie db project. https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents/Bootstrap5/MovieDBProject
