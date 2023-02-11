@@ -111,3 +111,7 @@ dist
 
 apikey.js
 jay.js
+
+# add cert to ignore
+
+.cert
