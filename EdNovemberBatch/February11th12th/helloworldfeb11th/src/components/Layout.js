@@ -9,6 +9,8 @@ const Layout = () => (
         <Link to="/">Home</Link> |
         <Link to="/jayphotography">Jay Photography</Link> |
         <Link to="/jayphotography2">Jay Photography 2</Link> |
+        <Link to="/passingobjects">Passing Objects</Link> |
+        <Link to="/inputoutput">Input Output</Link> |
       </p>
     </nav>
     <hr></hr>
