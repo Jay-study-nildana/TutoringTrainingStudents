@@ -17,6 +17,18 @@ All the best.
 
 1. https://w3hubs.com/netflix-home-page-in-bootstrap-5/ - Netflix Clone. 
 
+# February 18th and 19th 
+
+https://github.com/Jay-study-nildana/NodeJSForStudents/tree/main/NodeJSHelloWorld
+
+detailed steps in this link
+
+https://medium.com/projectwt/setup-a-simple-nodejs-server-with-api-endpoints-and-static-bootstrap-site-a809ebcb8e74
+
+folder
+
+helloworldfeb18th
+
 # February 11th and 12th
 
 https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/ReactJSForStudents
