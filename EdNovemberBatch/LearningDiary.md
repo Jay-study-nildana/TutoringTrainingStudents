@@ -29,6 +29,10 @@ folder
 
 helloworldfeb18th
 
+https://github.com/Jay-study-nildana/NodeJSForStudents/tree/main/MongoDBHelloWorld
+
+CRUD basics finished.
+
 # February 11th and 12th
 
 https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/ReactJSForStudents
