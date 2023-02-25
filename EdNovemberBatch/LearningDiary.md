@@ -17,6 +17,25 @@ All the best.
 
 1. https://w3hubs.com/netflix-home-page-in-bootstrap-5/ - Netflix Clone. 
 
+# February 25th and February 26th
+
+Alright folks, today it is all about web api with mongo db
+
+https://github.com/Jay-study-nildana/NodeJSForStudents/tree/main/NodeJSHelloWorld
+
+https://github.com/Jay-study-nildana/NodeJSForStudents/tree/main/MongoDB_API_CRUD_HelloWorld
+
+Folder for today, WebAPIwithMongo
+
+blog post
+
+https://medium.com/projectwt/setup-a-simple-nodejs-server-with-api-endpoints-and-static-bootstrap-site-a809ebcb8e74
+
+https://www.npmjs.com/package/mongodb
+
+Okay, continuing tomorrow. 
+
+
 # February 18th and 19th 
 
 https://github.com/Jay-study-nildana/NodeJSForStudents/tree/main/NodeJSHelloWorld
