@@ -35,6 +35,12 @@ https://www.npmjs.com/package/mongodb
 
 Okay, continuing tomorrow. 
 
+okay, read is done.
+
+Next, 
+
+Update and Delete.
+
 
 # February 18th and 19th 
 
