@@ -1,0 +1,41 @@
+{
+  "name": "react-hello-world-31-01-23",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@babel/core": "7.20.12",
+    "@babel/runtime": "7.20.13",
+    "@redux-devtools/extension": "3.2.5",
+    "@testing-library/jest-dom": "5.16.5",
+    "@testing-library/react": "13.4.0",
+    "@testing-library/user-event": "14.4.3",
+    "react": "18.2.0",
+    "react-bootstrap": "2.7.0",
+    "react-dom": "18.2.0",
+    "react-redux": "8.0.5",
+    "react-router-dom": "6.8.0",
+    "react-scripts": "4.0.0",
+    "react-slideshow-image": "4.2.0",
+    "redux": "4.2.1",
+    "redux-persist": "6.0.0",
+    "redux-thunk": "2.4.2",
+    "reselect": "4.1.7"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

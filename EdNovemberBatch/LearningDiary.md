@@ -17,6 +17,36 @@ All the best.
 
 1. https://w3hubs.com/netflix-home-page-in-bootstrap-5/ - Netflix Clone. 
 
+# March 4th and March 5th 
+
+Alright, resuming with CRUD
+
+https://github.com/Jay-study-nildana/NodeJSForStudents
+
+https://github.com/Jay-study-nildana/NodeJSForStudents/tree/main/MongoDB_API_CRUD_HelloWorld
+
+Let's return to React JS.
+
+https://codesandbox.io/s/react-list-demo-p9xuh4
+
+https://codesandbox.io/s/react-hello-world-31-01-23-sl4d2m
+
+solution for 'npm start' errors.
+
+https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported
+
+https://react-bootstrap.github.io/components/list-group/
+
+SOLID Principles
+
+https://medium.com/projectwt/solid-principles-in-c-net-6-0-using-batman-as-example-87d59f9616dd
+
+https://mui.com/material-ui/getting-started/overview/
+
+https://react.fluentui.dev/?path=/docs/concepts-introduction--page
+
+folder, ListPractice
+
 # February 25th and February 26th
 
 Alright folks, today it is all about web api with mongo db
