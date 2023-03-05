@@ -19,6 +19,7 @@ import ImageSlider from "./components/ImageSlider";
 import SimpleBasicList from "./components/SimpleBasicList";
 import ListwithItemComponent from "./components/ListwithItemComponent";
 import ListWithAccordion from "./components/ListWithAccordion";
+import SuperHeroPage from "./components/SuperHeroPage";
 
 
 export default function App() {
@@ -34,6 +35,7 @@ export default function App() {
           <Route path="/simplebasiclist" element={<SimpleBasicList />} />
           <Route path="/listwithitemcomponent" element={<ListwithItemComponent />} />
           <Route path="/listwithaccordion" element={<ListWithAccordion />} />
+          <Route path="/listwithaccordion/:id" element={<SuperHeroPage />} />
           {/* <Route path="about" element={<About />} /> */}
           {/* <Route path="dashboard" element={<Dashboard />} /> */}
           {/* Using path="*"" means "match anything", so this route

@@ -4,6 +4,7 @@ import ListGroup from 'react-bootstrap/ListGroup';
 import Accordion from 'react-bootstrap/Accordion';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
+import {Link} from "react-router-dom";
 
 const ListWithAccordion = () => {
 
@@ -46,7 +47,14 @@ const ListWithAccordion = () => {
             power: "Super Strength",
             weakness: "Ares",
             img: "https://upload.wikimedia.org/wikipedia/en/9/93/Wonder_Woman.jpg"
-        }
+        },
+        {
+            id: 6,
+            name: "Thor",
+            power: "Mjolnir",
+            weakness: "Hela",
+            img: "https://upload.wikimedia.org/wikipedia/en/7/7d/Thor_Ragnarok_poster.jpg"
+        },
 
     ];
 
@@ -56,6 +64,9 @@ const ListWithAccordion = () => {
         <ListGroup.Item>
             <h3>{item.id}. {item.name}</h3>
             <p>Power: {item.power}. Weakness: {item.weakness}</p>
+            <hr></hr>
+            {/* <Route path="/listwithaccordion/:id" element={<SuperHeroPage />} /> */}
+            <Link to={`/listwithaccordion/${item.id}`}>{item.name}'s Page</Link>
             <hr></hr>
             <img
         src={item.img}

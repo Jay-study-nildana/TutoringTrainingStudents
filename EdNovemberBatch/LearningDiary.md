@@ -47,6 +47,22 @@ https://react.fluentui.dev/?path=/docs/concepts-introduction--page
 
 folder, ListPractice
 
+Lists are completed. 
+
+Dynamic routes completed. 
+
+Now, Redux
+
+https://codesandbox.io/s/react-js-nasa-apod-4l8hxz (adventurous, old school redux)
+
+https://codesandbox.io/s/redux-demo-march-4th-2023-i5drnd (simple, using redux toolkit) . THIS IS RECOMMENDED. AND EASY. 
+
+Next
+
+Okay. build the redux toolkit text app.
+
+Then, show the remaining quick react js projects.
+
 # February 25th and February 26th
 
 Alright folks, today it is all about web api with mongo db
