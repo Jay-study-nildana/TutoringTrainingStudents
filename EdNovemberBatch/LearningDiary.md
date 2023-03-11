@@ -17,6 +17,31 @@ All the best.
 
 1. https://w3hubs.com/netflix-home-page-in-bootstrap-5/ - Netflix Clone. 
 
+# March 11th and 12th 
+
+Redux Toolkit with web API
+
+https://codesandbox.io/s/redux-toolkit-nasa-apod-ikn5b3 (with redux toolkit)
+
+https://codesandbox.io/s/react-js-nasa-apod-4l8hxz (non redux toolkit)
+
+To understand this code.
+
+1. function fetchNASAAPODAPIdata() {
+
+FB Login.
+
+1. https://developers.facebook.com/
+1. https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/ReactJSForStudents/reactfbloginhelloworld
+1. https://medium.com/projectwt/react-js-localhost-with-https-using-mkcert-338927e94212
+1. https://www.npmjs.com/package/react-facebook-login
+
+Okay. 
+
+Next Google Login. Axios.
+
+and after that, Auth0
+
 # March 4th and March 5th 
 
 Alright, resuming with CRUD
