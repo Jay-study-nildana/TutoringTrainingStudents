@@ -42,6 +42,40 @@ Next Google Login. Axios.
 
 and after that, Auth0
 
+Continuing on Sunday.
+
+Google Login..
+
+https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/ReactJSForStudents/reactgoogleloginhelloworld
+
+google dashboard.
+
+https://console.cloud.google.com/apis/dashboard
+
+creating and editing images.
+
+https://www.irfanview.com
+
+https://sandkdesignstudio.in/portfolio/
+
+https://www.npmjs.com/package/react-google-login
+
+https://www.npmjs.com/package/gapi-script
+
+https://medium.com/projectwt/react-js-localhost-with-https-using-mkcert-338927e94212
+
+Axios
+
+https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/ReactJSForStudents/axioshelloworldhttps
+
+https://github.com/Jay-study-nildana/NodeJSForStudents/tree/main/MongoDB_API_CRUD_HelloWorld
+
+https://www.npmjs.com/package/axios
+
+Okay,
+
+next Auth0
+
 # March 4th and March 5th 
 
 Alright, resuming with CRUD
