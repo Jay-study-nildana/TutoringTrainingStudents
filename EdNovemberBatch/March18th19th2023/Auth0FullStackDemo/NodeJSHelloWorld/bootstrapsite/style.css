@@ -1,0 +1,51 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.border {
+  /* color: blueviolet; */
+  border-color: coral;
+  
+}
+
+.border-primary {
+  border-color: rgb(12, 240, 69) !important;
+}
+
+/* Here I am using a simple padding. if I dont put this, the top content goes behind the menu */
+.toppadding1 {
+  padding-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

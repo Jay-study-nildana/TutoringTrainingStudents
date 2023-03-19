@@ -17,6 +17,29 @@ All the best.
 
 1. https://w3hubs.com/netflix-home-page-in-bootstrap-5/ - Netflix Clone. 
 
+# March 18th and March 19th.
+
+All topics finished. 
+
+Now discussing projects, and extra topics. 
+
+Extra Topic Auth0
+
+folder, Auth0FullStackDemo
+
+front end. rjsfrontend
+
+https://github.com/Jay-study-nildana/NodeJSForStudents/tree/main/NodeJSHelloWorld
+
+back end. NodeJSHelloWorld
+
+Front end is configured with security.
+
+next apply security to back end.
+
+1. build one without security endpoint
+1. build another endpoint with security
+
 # March 11th and 12th 
 
 Redux Toolkit with web API
