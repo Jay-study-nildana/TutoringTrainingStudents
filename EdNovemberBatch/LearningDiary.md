@@ -17,6 +17,47 @@ All the best.
 
 1. https://w3hubs.com/netflix-home-page-in-bootstrap-5/ - Netflix Clone. 
 
+# March 25th and March 26th 
+
+Resume Auth0 Work.
+
+folder, Auth0FullStackDemo
+
+front end folder, 
+
+rjsfrontend
+
+back end folder,
+
+rjsfrontend
+
+check Postman Collection, Auth0FullStackDemoMarch25th2023.postman_collection
+
+Next
+
+Deployment. Continous Deployment.
+
+1. https://medium.com/projectwt/heroku-is-stopping-free-stuff-this-is-sad-just-sad-72e6f6b0cb06
+1. https://medium.com/projectwt/wow-heroku-is-not-unavailable-for-indian-developers-rbi-stuff-45dd15735eda
+
+Cloud Certifications
+
+1. https://learn.microsoft.com/en-us/training/azure/
+1. https://aws.amazon.com/certification/
+
+Demo Projects
+
+1. https://github.com/Jay-study-nildana/ContinuousDeploymentForStudents
+
+Olden days, we used to use, https://filezilla-project.org/.
+
+wrap for today
+
+Next
+
+1. React JS deployment
+1. Node JS deployment
+
 # March 18th and March 19th.
 
 All topics finished. 
@@ -39,6 +80,20 @@ next apply security to back end.
 
 1. build one without security endpoint
 1. build another endpoint with security
+
+Front end confirmed it is working.
+
+explained theory about auth0 and back end and token and security endpoints
+
+Postman Collection 
+
+Auth0PracticeMarch25th2023
+
+also, created a postman collections folder. 
+
+another example project
+
+https://github.com/Jay-study-nildana/NodeJSForStudents/tree/main/Auth0Demo
 
 # March 11th and 12th 
 

@@ -1,0 +1,121 @@
+{
+	"info": {
+		"_postman_id": "56363d12-802d-453e-9471-8cf0c2dfa314",
+		"name": "NodeJSHelloWorldFebruary18th2023Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "9430666"
+	},
+	"item": [
+		{
+			"name": "user",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/user",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"user"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/dummycar",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/dummycar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"dummycar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/batman",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/batman",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"batman"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/post example",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"name\":\"Jay\",\"realname\":\"Vijayasimha BR\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8081/postexample",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"postexample"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "add",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"num1\" : 25,\r\n    \"num2\" : 50\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8081/add",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"add"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

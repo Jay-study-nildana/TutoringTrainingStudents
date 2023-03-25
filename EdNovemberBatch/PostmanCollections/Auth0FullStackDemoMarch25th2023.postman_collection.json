@@ -1,0 +1,58 @@
+{
+	"info": {
+		"_postman_id": "2d1e40ca-0f47-4bf9-9f0e-e7b70151723d",
+		"name": "Auth0FullStackDemoMarch25th2023",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "9430666"
+	},
+	"item": [
+		{
+			"name": "dummycar",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/dummycar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"dummycar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "dummycar with Token",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InRCQ1U3ODBqYUMtckZuZmV2MjkxNCJ9.eyJpc3MiOiJodHRwczovL21vbmtleWtpYmFhdC51cy5hdXRoMC5jb20vIiwic3ViIjoiZ29vZ2xlLW9hdXRoMnwxMDMwMjAyOTgxNDUwNTM0MzE4NDgiLCJhdWQiOlsiaHR0cHM6Ly9zYW5ka2Rlc2lnbnN0dWRpby5pbi8iLCJodHRwczovL21vbmtleWtpYmFhdC51cy5hdXRoMC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNjc5NzU0MTAyLCJleHAiOjE2Nzk4NDA1MDIsImF6cCI6ImRCaGxvcmhKSWFNTEZFR29tbHZWYTZMQXZJOWlZZ3gxIiwic2NvcGUiOiJvcGVuaWQgcHJvZmlsZSBlbWFpbCJ9.LvSMN_on1l7D9WqHL-8EcVYBxtZjRvJTw7lfhxAO1Hh_DXL1UK83FW_XmmjivgIwLynkRAGUzQlQJhV7NWG269MITo_IZ78EKPDhz8JviBv5A5_gGXXiV-vybZZrL1IwZGYbgauLaPPGgazef2Of-rL_0FP0qa44KEE19G-bilWp_zi5yRD5iIoVAqo9Y557apR1RUZbGfKnW7YpzqY4ByixIZ9rJr2j6WAOxHQOaQVkqM4ux1VG__q6fQeDydlqloXtPkTl5sUsTbKCRMtMw_bCGDr78RQOAnxl84fPWRki7H7f1mgMvIFk7A9M_-xAK7hOXfuw23Cf6uywiTSVGA",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/dummycar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"dummycar"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

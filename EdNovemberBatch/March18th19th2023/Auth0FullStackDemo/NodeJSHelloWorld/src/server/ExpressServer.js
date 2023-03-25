@@ -1,5 +1,6 @@
 import express from "express"
 const bodyParser = require('body-parser');
+const { auth } = require('express-oauth2-jwt-bearer');
 
 /**
  *  Example of using ES6 syntectic sugar to create Express JS server
@@ -21,6 +22,14 @@ class ExpressServer {
 
       this.server.use(bodyParser.json()); // for parsing application/json
       this.server.use(bodyParser.urlencoded({ extended: true })); // for parsing application/x-www-form-urlencoded
+
+      const jwtCheck = auth({
+        audience: 'https://sandkdesignstudio.in/',
+        issuerBaseURL: 'https://monkeykibaat.us.auth0.com/',
+        tokenSigningAlg: 'RS256'
+      });
+
+      this.server.use(jwtCheck);
 
       this.server.get('/user', (req, res)=> {
         res.send('Got a GET request at /user')

@@ -1,0 +1,223 @@
+{
+	"info": {
+		"_postman_id": "51ac44b2-0d54-4de1-9099-42403bee1ac9",
+		"name": "MongoDBAPICRUDHelloWorldFeb25th",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "9430666"
+	},
+	"item": [
+		{
+			"name": "dummycar",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/dummycar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"dummycar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "addhero",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/mongodb/addhero",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"mongodb",
+						"addhero"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "addherogreenlantern",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/mongodb/addherogreenlantern",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"mongodb",
+						"addherogreenlantern"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "helloworld (get all superheroes)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/mongodb/helloworld",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"mongodb",
+						"helloworld"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "deleteherogreenlantern",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/mongodb/deleteherogreenlantern",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"mongodb",
+						"deleteherogreenlantern"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "addHeroWithPost",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"hero\" : \"PillowWoMan\",\r\n    \"name\" : \"Shilpa\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8081/mongodb/addHeroWithPost",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"mongodb",
+						"addHeroWithPost"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "updateheroWithPost",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"hero\" : \"Sukh\",\r\n    \"name\" : \"Padda Sukhwantsingh\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8081/mongodb/updateheroWithPost",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"mongodb",
+						"updateheroWithPost"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "deletespecificherowithid",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"id\" : \"64034f4738daea5641b136d6\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8081/deletespecificherowithid",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"deletespecificherowithid"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "deletespecificherowithnameofhero",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"hero\" : \"Hulk\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8081/deletespecificherowithnameofhero",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"deletespecificherowithnameofhero"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
