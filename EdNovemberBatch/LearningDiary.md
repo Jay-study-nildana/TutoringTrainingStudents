@@ -58,6 +58,78 @@ Next
 1. React JS deployment
 1. Node JS deployment
 
+Continuing on Sunday
+
+not doing Azure right now. 
+
+we are trying Vercel.
+
+https://github.com/Jay-study-nildana/VercelReactJSDemo
+
+source: https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/ReactJSForStudents/helloworld2023
+
+YouTube : https://www.youtube.com/watch?v=Oa2FqrVorUY
+
+So, React JS, front end is ready. 
+
+Next, deploying backend with Vercel command.
+
+source: https://github.com/Jay-study-nildana/NodeJSForStudents/tree/main/NodeJSHelloWorld
+
+https://github.com/Jay-study-nildana/vercelbackenddemo
+
+next option
+
+using vercel extension.
+
+https://github.com/Jay-study-nildana/vercelextensiondemo
+
+there are no official vercel extensions. use with caution. 
+
+another option. VERCEL CLI
+
+https://vercel.com/docs/cli
+
+https://vercel.com/docs/cli/deploy
+
+```
+    npm i -g vercel
+```
+
+```
+PS C:\Users\vijay\Videos\EdurekaClassesMarch25th\vercelnpmdemo> vercel
+Vercel CLI 28.18.1
+> > No existing credentials found. Please log in:
+? Log in to Vercel github
+> Success! GitHub authentication complete for vijayasimhabr@live.com
+? Set up and deploy “~\Videos\EdurekaClassesMarch25th\vercelnpmdemo”? [Y/n] y
+? Which scope do you want to deploy to? Jay
+? Link to existing project? [y/N] n
+? What’s your project’s name? vercelnpmdemo
+? In which directory is your code located? ./
+🔗  Linked to jay-study-nildana/vercelnpmdemo (created .vercel)
+🔍  Inspect: https://vercel.com/jay-study-nildana/vercelnpmdemo/BbpgAyR6NhowZDYwTj8b1yemscSf [4s]
+✅  Production: https://vercelnpmdemo.vercel.app [21s]
+📝  Deployed to production. Run `vercel --prod` to overwrite later (https://vercel.link/2F).
+💡  To change the domain or build command, go to https://vercel.com/jay-study-nildana/vercelnpmdemo/settings
+```
+
+after making changes to code, push to deployment
+
+```
+ vercel --prod
+```
+
+also, note,
+
+```
+    and you can also connect to git repo to the project deploy with cli command just go to dashboard and click on project and there is a option to connect git repo
+```
+
+```
+    while you are using multiple project in single repo u can use direct deploy
+```
+
 # March 18th and March 19th.
 
 All topics finished. 
