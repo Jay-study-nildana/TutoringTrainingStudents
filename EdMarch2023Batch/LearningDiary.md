@@ -14,6 +14,31 @@ Plus
 
 1. English. 
 
+# March 26th 2023
+
+Today's code. continuing from yesterday.
+
+https://codepen.io/jay-pancodu/full/OJodLJj
+
+Target: https://codepen.io/jay-pancodu/full/QWxedZo (batman CSS)
+
+Other links
+
+1. https://www.w3schools.com/colors/colors_picker.asp
+1. https://colorhunt.co/
+1. https://www.w3schools.com/Css/css_font.asp
+1. https://www.w3schools.com/tags/tag_img.asp
+
+Photos
+
+1. https://unsplash.com/@jay_neeruhaaku
+1. https://sandkdesignstudio.in/portfolio/
+
+
+explaining doubts. 
+
+
+
 # Till March 25th 2023
 
 alright. here we go. 
