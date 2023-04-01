@@ -14,6 +14,52 @@ Plus
 
 1. English. 
 
+# April 1st 2023
+
+CSS Links
+
+1. https://www.freecodecamp.org/learn/2022/responsive-web-design/
+1. https://developer.mozilla.org/en-US/docs/Learn/CSS
+1. https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations
+
+Some AI links.
+
+1. https://www.bing.com/images/create?form=FLPGEN
+1. https://en.wikipedia.org/wiki/Stable_Diffusion
+
+News 
+
+1. https://arstechnica.com/
+1. https://www.engadget.com/
+
+CodePen
+
+1. https://codepen.io/jay-pancodu/pen/ZEMdaXm
+
+Bootstrap
+
+1. https://getbootstrap.com/docs/5.3/getting-started/introduction/
+1. https://youtu.be/7PSINBIw6Z8
+
+folder, BootstrapHelloWorld
+
+folder, BootstrapHelloWorldRepeat
+
+photo sources
+
+1. https://unsplash.com/@jay_neeruhaaku
+1. https://sandkdesignstudio.in/portfolio/
+
+from tomorrow
+
+1. https://github.com/Jay-study-nildana/FrontEndForStudents
+
+first project
+
+1. https://codepen.io/jay-pancodu/full/eYjRBjJ
+1. Other students, showcase, https://github.com/Jay-study-nildana/TutoringTrainingStudents/discussions/38
+
+
 # March 26th 2023
 
 Today's code. continuing from yesterday.
