@@ -17,6 +17,14 @@ All the best.
 
 1. https://w3hubs.com/netflix-home-page-in-bootstrap-5/ - Netflix Clone. 
 
+# April 1st and April 2nd 
+
+Final weekend for this batch. 
+
+Wrapping up the batch.
+
+Sharing ideas for future projects open source and related thoughts.
+
 # March 25th and March 26th 
 
 Resume Auth0 Work.
