@@ -4,6 +4,19 @@ Hello and Welcome to the repository dedicated to students from my corporate trai
 
 Pleaes feel free ask questions and find out more in the 'Issues' and 'Discussions' section.
 
+note: don't hesitate to get in touch with me for internship, freelancing and job opportunities. Thanks.
+
+Jay.
+
+# Batches
+
+1. March 2023 Batch, [go here](EdMarch2023Batch).
+1. November 2022 Batch, [go here](EdNovemberBatch).
+
+# Homework and Projects to Practice?
+
+Check out the [MiniProjectsDiary](MiniProjectsDiary.md).
+
 # Project Templates
 
 1. [HTML Basic Template](HTMLBasicTemplate)
