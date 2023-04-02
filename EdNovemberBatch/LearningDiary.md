@@ -2,6 +2,8 @@
 
 I am putting the notes here for students benefit.
 
+check out the [MiniProjectsDiary.md](MiniProjectsDiary.md) in the root folder.
+
 # Danger Zone. JavaScript Main Guidelines
 
 1. Practice minimum 10 hours every week.

@@ -2,6 +2,8 @@
 
 Learning Diary
 
+check out the [MiniProjectsDiary.md](MiniProjectsDiary.md) in the root folder.
+
 # Super Duper Courses for Super Duper Students
 
 Total Hardwork. 300 Hours.
@@ -58,6 +60,19 @@ first project
 
 1. https://codepen.io/jay-pancodu/full/eYjRBjJ
 1. Other students, showcase, https://github.com/Jay-study-nildana/TutoringTrainingStudents/discussions/38
+
+Today's folder.
+
+BootstrapPhotoBusinessWebsite
+
+1. https://sherlock-holm.es/stories/html/cano.html#Chapter-1
+1. https://fontawesome.com/
+1. https://getbootstrap.com/docs/5.3/layout/breakpoints/
+
+next, we will resume from the 
+
+<section id="home">
+columns and break points.
 
 
 # March 26th 2023
