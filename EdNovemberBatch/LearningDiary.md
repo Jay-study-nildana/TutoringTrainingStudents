@@ -27,6 +27,10 @@ Wrapping up the batch.
 
 Sharing ideas for future projects open source and related thoughts.
 
+Batch wrapped up. 
+
+Wished my students all the best. 
+
 # March 25th and March 26th 
 
 Resume Auth0 Work.
