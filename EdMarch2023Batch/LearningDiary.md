@@ -4,6 +4,15 @@ Learning Diary
 
 check out the [MiniProjectsDiary.md](MiniProjectsDiary.md) in the root folder.
 
+Find out when you will become a developer. 
+
+1. https://bfsdffrontendvanillajsapril4th2023.vercel.app/
+1. https://github.com/BigbabeeSmallbabee/ProjectBFSDFHQ
+
+extra things.
+
+1. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 # Super Duper Courses for Super Duper Students
 
 Total Hardwork. 300 Hours.
@@ -15,6 +24,33 @@ Total Hardwork. 300 Hours.
 Plus 
 
 1. English. 
+
+# April 8th 2023
+
+Today, beginning the basics of JavaScript
+
+so we can start the bootstrap and javascript dance.
+
+articles
+
+1. https://medium.com/projectwt/coding-tutor-tip-9-caveman-debugging-58369c1a6760
+1. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
+1. https://www.youtube.com/watch?v=Q-T-Mn37hmg
+1. https://www.youtube.com/watch?v=v4nmb-jKBGo
+
+codepen links
+
+1. https://codepen.io/jay-pancodu/pen/xxybPZL
+
+folder for today, \April8th9th2023.
+
+using the template, Bootstrap5TemplateStarterAmeeshaPatel
+
+folder for practice, JavaScriptPractice1
+
+library 
+
+1. https://github.com/cferdinandi/smooth-scroll
 
 # April 1st 2023
 
