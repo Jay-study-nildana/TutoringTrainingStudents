@@ -13,6 +13,12 @@ extra things.
 
 1. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+GitHub and AI related videos
+
+1. https://youtu.be/s9LQCkCb-AY
+1. https://youtu.be/B-tEeGhUX80
+1. https://youtu.be/MUUrkCPwMbI
+
 # Super Duper Courses for Super Duper Students
 
 Total Hardwork. 300 Hours.
@@ -24,6 +30,29 @@ Total Hardwork. 300 Hours.
 Plus 
 
 1. English. 
+
+# April 9th 2023
+
+codepen
+
+1. https://codepen.io/jay-pancodu/pen/xxybPZL
+1. https://codepen.io/jay-pancodu/pen/NWOPmwj
+1. https://codepen.io/jay-pancodu/pen/vYVEMqK
+
+folder for practice, JavaScriptPractice1
+
+1. https://www.youtube.com/watch?v=MUUrkCPwMbI (AI GitHub CoPilot)
+1. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+
+folder, for practice, 
+
+JavaScriptPractice2IncrementDecrementOperators
+
+folder, JavaScriptPractice3ForLoop
+
+fifth jump question/discussion : https://github.com/Jay-study-nildana/TutoringTrainingStudents/discussions/141
+
+
 
 # April 8th 2023
 

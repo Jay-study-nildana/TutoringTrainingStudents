@@ -61,5 +61,41 @@ console.log(c);
 var batman = "Bruce Wayne";
 var batman = "Jay sir";
 
-let superman = "Clark Kent";
-let superman = "Jay sir";
+// let superman = "Clark Kent";
+// let superman = "Jay sir";
+
+var a = 10;
+var b = 20;
+var c = a + b;
+
+//console log
+
+console.log(a);
+console.log(b);
+console.log(c);
+
+var number_one = 10;
+var number_two = 20;
+var totaloftwonumbers = number_one + number_two;
+
+//console log
+
+console.log(number_one);
+console.log(number_two);
+console.log(totaloftwonumbers);
+
+var numberOne = 10;
+var numberTwo = 20;
+var totalOfTwoNumbers = numberOne + numberTwo;
+//for minus operator
+var totalOfTwoNumbers = numberOne - numberTwo;
+//for multiply operator
+var totalOfTwoNumbers = numberOne * numberTwo;
+//for divide operator
+var totalOfTwoNumbers = numberOne / numberTwo;
+
+//console log
+
+console.log(numberOne);
+console.log(numberTwo);
+console.log(totalOfTwoNumbers);
