@@ -31,6 +31,19 @@ Plus
 
 1. English. 
 
+# April 16th 2023
+
+folder, VS Code.
+
+1. ForLoopPracticeApril15th2023
+1. FunctionsPracticeApril16th2023
+
+CodePen
+
+1. https://codepen.io/jay-pancodu/pen/QWZNqKd
+1. https://codepen.io/jay-pancodu/pen/mdzPvae
+
+
 # April 15th 2023
 
 folder, VS Code.
