@@ -2,7 +2,7 @@
 
 Learning Diary
 
-check out the [MiniProjectsDiary.md](MiniProjectsDiary.md) in the root folder.
+check out the [Mini Project Diary](https://github.com/Jay-study-nildana/TutoringTrainingStudents/blob/main/MiniProjectsDiary.md) in the root folder.
 
 Find out when you will become a developer. 
 
