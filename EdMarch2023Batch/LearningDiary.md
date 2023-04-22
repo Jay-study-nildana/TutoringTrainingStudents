@@ -19,6 +19,11 @@ GitHub and AI related videos
 1. https://youtu.be/B-tEeGhUX80
 1. https://youtu.be/MUUrkCPwMbI
 
+Most important learning memes.
+
+1. https://imgflip.com/i/7e7lhe
+1. https://imgflip.com/i/7e7o1j
+
 # Super Duper Courses for Super Duper Students
 
 Total Hardwork. 300 Hours.
@@ -30,6 +35,35 @@ Total Hardwork. 300 Hours.
 Plus 
 
 1. English. 
+
+# April 22nd 2023
+
+1. JSON
+1. Fetch
+
+nasa APOD links
+
+1. https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
+1. https://api.nasa.gov/
+1. https://apod.nasa.gov/apod/
+1. https://prettier.io/
+
+```
+
+{
+  "date": "2023-04-22",
+  "explanation": "In visible light NGC 1333 is seen as a reflection nebula, dominated by bluish hues characteristic of starlight reflected by interstellar dust. A mere 1,000 light-years distant toward the heroic constellation Perseus, it lies at the edge of a large, star-forming molecular cloud. This Hubble Space Telescope close-up frames a region just over 1 light-year wide at the estimated distance of NGC 1333. It shows details of the dusty region along with telltale hints of contrasty red emission from Herbig-Haro objects, jets and shocked glowing gas emanating from recently formed stars. In fact, NGC 1333 contains hundreds of stars less than a million years old, most still hidden from optical telescopes by the pervasive stardust. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago. Hubble's stunning image of the stellar nursery was released to celebrate the 33rd anniversary of the space telescope's launch.  Watch: Planet Earth's annual Lyrid Meteor Shower",
+  "hdurl": "https://apod.nasa.gov/apod/image/2304/NGC1333HST33rd.png",
+  "media_type": "image",
+  "service_version": "v1",
+  "title": "NGC 1333: Stellar Nursery in Perseus",
+  "url": "https://apod.nasa.gov/apod/image/2304/NGC1333HST33rd_800.png"
+}
+
+
+```
+
+
 
 # April 16th 2023
 
