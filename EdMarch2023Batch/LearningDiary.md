@@ -36,7 +36,7 @@ Plus
 
 1. English. 
 
-# April 22nd 2023
+# April 22nd 2023 and 23rd 2023
 
 1. JSON
 1. Fetch
@@ -63,6 +63,39 @@ nasa APOD links
 
 ```
 
+https://codepen.io/jay-pancodu/pen/RwYZwBG (old project NASA APOD)
+
+https://www.postman.com/downloads/
+
+Bootstrap Template
+
+https://codepen.io/jay-pancodu/pen/gOjaGbX
+
+Today's NASA Project
+
+https://codepen.io/jay-pancodu/pen/BaqpvvJ
+
+Project folder. NASAAPODApril23rd2023
+
+https://getbootstrap.com/docs/5.3/components/buttons/
+
+Button example. 
+
+https://codepen.io/jay-pancodu/pen/qBJRLzZ
+
+Fetch link
+
+1. https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
+Fetch Example..
+
+https://codepen.io/jay-pancodu/pen/VwEPgrr
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
+next
+
+put all these concepts together and build the final web app.
 
 
 # April 16th 2023
