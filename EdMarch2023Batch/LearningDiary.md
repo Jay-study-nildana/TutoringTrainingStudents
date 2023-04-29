@@ -36,6 +36,38 @@ Plus
 
 1. English. 
 
+# April 29th and April 30th 2023
+
+We just have to build the final NASA software.
+
+https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents/Bootstrap5/NASAAPODXhrFetch
+
+Today's Project CodePen. https://codepen.io/jay-pancodu/pen/zYmdNQN
+
+1. get the bootsrap template. https://codepen.io/jay-pancodu/pen/abjbrxK
+1. add a button. 
+1. add function.
+1. add fetch code
+1. DOM manipulation to show the answers. 
+
+Next, VS Code Version
+
+Folder, NASAMiniProjectApril29th2023
+
+How to Postman video 
+
+https://youtu.be/ZKuIHSeO6vs
+
+https://github.com/Jay-study-nildana/ContinuousDeploymentForStudents
+
+Vercel Deployment : https://youtu.be/N7vtvD5DtUc
+
+https://github.com/Jay-study-nildana/bootstrapvideotutorialvercel
+
+
+
+
+
 # April 22nd 2023 and 23rd 2023
 
 1. JSON
