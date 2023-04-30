@@ -64,7 +64,26 @@ Vercel Deployment : https://youtu.be/N7vtvD5DtUc
 
 https://github.com/Jay-study-nildana/bootstrapvideotutorialvercel
 
+Okay, today's session is here. 
 
+"Continuous Learning"
+
+https://github.com/Jay-study-nildana/vercelbackenddemo
+
+Let's cover some more JS concepts. 
+
+1. https://codepen.io/jay-pancodu/pen/zYmdJpE?editors=0002  This is for String Escaping.
+1. https://codepen.io/jay-pancodu/pen/mdzMGLg?editors=1111  Constructing or Building Strings with Variables
+1. https://codepen.io/jay-pancodu/pen/OJBjooJ?editors=1012  Constructing or Building Strings with Variables Part 2.
+1. https://codepen.io/jay-pancodu/pen/abRyaMK?editors=1010 String Essentials. 
+1. https://codepen.io/jay-pancodu/pen/abRyaej multi dimensional multiverse array
+1. https://codepen.io/jay-pancodu/pen/zYmdmBJ?editors=0011 array push, pop, shift and unshift.
+1. https://codepen.io/jay-pancodu/pen/qBJXJRw boolean things and if else
+1. https://codepen.io/jay-pancodu/pen/JjmymJV?editors=1010 ternary operator.
+
+next
+
+1. Movie DB Mini Project (we will build this fast)1. React JS (bootstrap) and Express JS
 
 
 
