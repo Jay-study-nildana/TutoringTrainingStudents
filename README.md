@@ -1,3 +1,13 @@
+# New Tutor coming for Batch 
+
+more details here, [New Tutor Coming for Batch](https://github.com/Jay-study-nildana/TutoringTrainingStudents/discussions/167)
+
+It was a pleasure teaching you guys.
+
+Jay
+
+May 5th 2023
+
 # Tutoring Training Students
 
 Hello and Welcome to the repository dedicated to students from my corporate training, classroom training and other training students.
