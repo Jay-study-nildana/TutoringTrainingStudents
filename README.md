@@ -1,3 +1,11 @@
+# Feedback to my Training Batch (which I wrapped up recently)
+
+YouTube video link : https://youtu.be/iOEMZcBhje0
+
+# How to stay in touch.
+
+YouTube video link : https://youtube.com/shorts/9PkFfAQ3Jt0
+
 # New Tutor coming for Batch 
 
 more details here, [New Tutor Coming for Batch](https://github.com/Jay-study-nildana/TutoringTrainingStudents/discussions/167)
