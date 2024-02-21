@@ -1,3 +1,15 @@
+# Note To Students (Feb 2nd 2024)
+
+This repo is archived and is no longer updated. But, I keep seeing people coming and seeing this. So, here are some things I am working.
+
+1. for the latest coding things, check out my blog, https://medium.com/projectwt
+1. learn c sharp, here, https://github.com/Jay-study-nildana/CSharpForStudents
+2. learn front end, here, https://github.com/Jay-study-nildana/FrontEndForStudents
+
+For all other things, check out, https://jay-study-nildana.github.io/developerprofile, and https://stories.thechalakas.com/. 
+
+All the best. 
+
 # Feedback to my Training Batch (which I wrapped up recently)
 
 YouTube video link : https://youtu.be/iOEMZcBhje0
